@@ -1,0 +1,64 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[01:59:41] filterscripts = ""  (string)
+[01:59:41] 
+[01:59:41] Server Plugins
+[01:59:41] --------------
+[01:59:41]  Loaded 0 plugins.
+
+[01:59:41] 
+[01:59:41] Filterscripts
+[01:59:41] ---------------
+[01:59:41]   Loaded 0 filterscripts.
+
+[01:59:41] OnScriptInit 1
+[01:59:41]  
+[01:59:41]  
+[01:59:41]  
+[01:59:41]  ======================================= 
+[01:59:41]  |                                     | 
+[01:59:41]  |        YSI version 1.06.0002        | 
+[01:59:41]  |        By Alex "Y_Less" Cole        | 
+[01:59:41]  |                                     | 
+[01:59:41]  ======================================= 
+[01:59:41]  
+[01:59:41]  
+[01:59:41]  
+[01:59:41] OnScriptInit 2
+[01:59:41] OnScriptInit 3
+[01:59:41] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[01:59:41] OnScriptInit 4
+[01:59:41] 
+----------------------------------
+[01:59:41]   SAHeaven RP Script Running...
+
+[01:59:41] ----------------------------------
+
+[01:59:41] Number of vehicle models: 0
+[01:59:41]  
+[01:59:41]  ========================================== 
+[01:59:41]  |                                        | 
+[01:59:41]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[01:59:41]  |            available from:             | 
+[01:59:41]  |                                        | 
+[01:59:41]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[01:59:41]  |                                        | 
+[01:59:41]  ========================================== 
+[01:59:41]  
+[02:00:29] Incoming connection: 127.0.0.1:63614
+[02:00:29] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[02:00:35] *** YSI Error: INI_Open could not find or create file /Users/Armand_Uberwald.ini
+[02:01:57] *** YSI Error: INI_Open could not find or create file /Users/Armand_Uberwald.ini
+[02:01:57] [part] Armand_Uberwald has left the server (0:1)
+[02:04:00] Incoming connection: 127.0.0.1:65112
+[02:04:00] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[02:04:23] [part] Armand_Uberwald has left the server (0:1)
+[02:04:57] Incoming connection: 127.0.0.1:54090
+[02:04:57] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
