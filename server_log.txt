@@ -821,3 +821,3753 @@ v0.3e-R2, (C)2005-2012 SA-MP Team
 [12:00:16] Incoming connection: 127.0.0.1:60240
 [12:00:16] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
 [12:00:41] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[14:09:58] filterscripts = ""  (string)
+[14:09:58] 
+[14:09:58] Server Plugins
+[14:09:58] --------------
+[14:09:58]  Loaded 0 plugins.
+
+[14:09:58] 
+[14:09:58] Filterscripts
+[14:09:58] ---------------
+[14:09:58]   Loaded 0 filterscripts.
+
+[14:09:58] OnScriptInit 1
+[14:09:58]  
+[14:09:58]  
+[14:09:58]  
+[14:09:58]  ======================================= 
+[14:09:58]  |                                     | 
+[14:09:58]  |        YSI version 1.06.0002        | 
+[14:09:58]  |        By Alex "Y_Less" Cole        | 
+[14:09:58]  |                                     | 
+[14:09:58]  ======================================= 
+[14:09:58]  
+[14:09:58]  
+[14:09:58]  
+[14:09:58] OnScriptInit 2
+[14:09:58] OnScriptInit 3
+[14:09:58] OnScriptInit 4
+[14:09:58] 
+----------------------------------
+[14:09:58]   SAHeaven RP Script Running...
+
+[14:09:58] ----------------------------------
+
+[14:09:58] Number of vehicle models: 0
+[14:09:59]  
+[14:09:59]  ========================================== 
+[14:09:59]  |                                        | 
+[14:09:59]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[14:09:59]  |            available from:             | 
+[14:09:59]  |                                        | 
+[14:09:59]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[14:09:59]  |                                        | 
+[14:09:59]  ========================================== 
+[14:09:59]  
+[14:10:21] Incoming connection: 127.0.0.1:60501
+[14:10:21] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[14:10:23] [death] Armand_Uberwald died 255
+[14:10:46] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[14:11:53] filterscripts = ""  (string)
+[14:11:53] 
+[14:11:53] Server Plugins
+[14:11:53] --------------
+[14:11:53]  Loaded 0 plugins.
+
+[14:11:53] 
+[14:11:53] Filterscripts
+[14:11:53] ---------------
+[14:11:53]   Loaded 0 filterscripts.
+
+[14:11:53] OnScriptInit 1
+[14:11:53]  
+[14:11:53]  
+[14:11:53]  
+[14:11:53]  ======================================= 
+[14:11:53]  |                                     | 
+[14:11:53]  |        YSI version 1.06.0002        | 
+[14:11:53]  |        By Alex "Y_Less" Cole        | 
+[14:11:53]  |                                     | 
+[14:11:53]  ======================================= 
+[14:11:53]  
+[14:11:53]  
+[14:11:53]  
+[14:11:53] OnScriptInit 2
+[14:11:53] OnScriptInit 3
+[14:11:53] OnScriptInit 4
+[14:11:53] 
+----------------------------------
+[14:11:53]   SAHeaven RP Script Running...
+
+[14:11:53] ----------------------------------
+
+[14:11:53] Number of vehicle models: 0
+[14:11:54]  
+[14:11:54]  ========================================== 
+[14:11:54]  |                                        | 
+[14:11:54]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[14:11:54]  |            available from:             | 
+[14:11:54]  |                                        | 
+[14:11:54]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[14:11:54]  |                                        | 
+[14:11:54]  ========================================== 
+[14:11:54]  
+[14:11:57] Incoming connection: 127.0.0.1:65485
+[14:11:58] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[14:13:22] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[14:45:04] filterscripts = ""  (string)
+[14:45:04] 
+[14:45:04] Server Plugins
+[14:45:04] --------------
+[14:45:04]  Loaded 0 plugins.
+
+[14:45:04] 
+[14:45:04] Filterscripts
+[14:45:04] ---------------
+[14:45:04]   Loaded 0 filterscripts.
+
+[14:45:04] OnScriptInit 1
+[14:45:04]  
+[14:45:04]  
+[14:45:04]  
+[14:45:04]  ======================================= 
+[14:45:04]  |                                     | 
+[14:45:04]  |        YSI version 1.06.0002        | 
+[14:45:04]  |        By Alex "Y_Less" Cole        | 
+[14:45:04]  |                                     | 
+[14:45:04]  ======================================= 
+[14:45:04]  
+[14:45:04]  
+[14:45:04]  
+[14:45:04] OnScriptInit 2
+[14:45:04] OnScriptInit 3
+[14:45:04] OnScriptInit 4
+[14:45:04] 
+----------------------------------
+[14:45:04]  SAHeaven RP Script Started...
+[14:45:04] ----------------------------------
+
+[14:45:04] Number of vehicle models: 0
+[14:45:04]  
+[14:45:04]  ========================================== 
+[14:45:04]  |                                        | 
+[14:45:04]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[14:45:04]  |            available from:             | 
+[14:45:04]  |                                        | 
+[14:45:04]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[14:45:04]  |                                        | 
+[14:45:04]  ========================================== 
+[14:45:04]  
+[14:45:38] Incoming connection: 127.0.0.1:62728
+[14:45:38] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[14:46:22] [part] Armand_Uberwald has left the server (0:1)
+[14:46:59] Incoming connection: 127.0.0.1:61507
+[14:46:59] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[14:48:30] [part] Armand_Uberwald has left the server (0:1)
+[14:48:53] Incoming connection: 127.0.0.1:64386
+[14:48:54] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[14:49:05] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[14:51:39] filterscripts = ""  (string)
+[14:51:39] 
+[14:51:39] Server Plugins
+[14:51:39] --------------
+[14:51:39]  Loaded 0 plugins.
+
+[14:51:40] 
+[14:51:40] Filterscripts
+[14:51:40] ---------------
+[14:51:40]   Loaded 0 filterscripts.
+
+[14:51:40] OnScriptInit 1
+[14:51:40]  
+[14:51:40]  
+[14:51:40]  
+[14:51:40]  ======================================= 
+[14:51:40]  |                                     | 
+[14:51:40]  |        YSI version 1.06.0002        | 
+[14:51:40]  |        By Alex "Y_Less" Cole        | 
+[14:51:40]  |                                     | 
+[14:51:40]  ======================================= 
+[14:51:40]  
+[14:51:40]  
+[14:51:40]  
+[14:51:40] OnScriptInit 2
+[14:51:40] OnScriptInit 3
+[14:51:40] OnScriptInit 4
+[14:51:40] 
+----------------------------------
+[14:51:40]  SAHeaven RP Script Started...
+[14:51:40] ----------------------------------
+
+[14:51:40] Number of vehicle models: 0
+[14:51:40]  
+[14:51:40]  ========================================== 
+[14:51:40]  |                                        | 
+[14:51:40]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[14:51:40]  |            available from:             | 
+[14:51:40]  |                                        | 
+[14:51:40]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[14:51:40]  |                                        | 
+[14:51:40]  ========================================== 
+[14:51:40]  
+[14:51:59] Incoming connection: 127.0.0.1:51574
+[14:52:00] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[14:52:13] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[14:58:56] filterscripts = ""  (string)
+[14:58:56] 
+[14:58:56] Server Plugins
+[14:58:56] --------------
+[14:58:56]  Loaded 0 plugins.
+
+[14:58:56] 
+[14:58:56] Filterscripts
+[14:58:56] ---------------
+[14:58:56]   Loaded 0 filterscripts.
+
+[14:58:56] OnScriptInit 1
+[14:58:56]  
+[14:58:56]  
+[14:58:56]  
+[14:58:56]  ======================================= 
+[14:58:56]  |                                     | 
+[14:58:56]  |        YSI version 1.06.0002        | 
+[14:58:56]  |        By Alex "Y_Less" Cole        | 
+[14:58:56]  |                                     | 
+[14:58:56]  ======================================= 
+[14:58:56]  
+[14:58:56]  
+[14:58:56]  
+[14:58:56] OnScriptInit 2
+[14:58:56] OnScriptInit 3
+[14:58:56] OnScriptInit 4
+[14:58:56] 
+----------------------------------
+[14:58:56]  SAHeaven RP Script Started...
+[14:58:56] ----------------------------------
+
+[14:58:56] Number of vehicle models: 0
+[14:58:56]  
+[14:58:56]  ========================================== 
+[14:58:56]  |                                        | 
+[14:58:56]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[14:58:56]  |            available from:             | 
+[14:58:56]  |                                        | 
+[14:58:56]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[14:58:56]  |                                        | 
+[14:58:56]  ========================================== 
+[14:58:56]  
+[14:59:18] Incoming connection: 127.0.0.1:57896
+[14:59:18] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[14:59:33] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[15:01:40] filterscripts = ""  (string)
+[15:01:40] 
+[15:01:40] Server Plugins
+[15:01:40] --------------
+[15:01:40]  Loaded 0 plugins.
+
+[15:01:40] 
+[15:01:40] Filterscripts
+[15:01:40] ---------------
+[15:01:40]   Loaded 0 filterscripts.
+
+[15:01:40] OnScriptInit 1
+[15:01:40]  
+[15:01:40]  
+[15:01:40]  
+[15:01:40]  ======================================= 
+[15:01:40]  |                                     | 
+[15:01:40]  |        YSI version 1.06.0002        | 
+[15:01:40]  |        By Alex "Y_Less" Cole        | 
+[15:01:40]  |                                     | 
+[15:01:40]  ======================================= 
+[15:01:40]  
+[15:01:40]  
+[15:01:40]  
+[15:01:40] OnScriptInit 2
+[15:01:40] OnScriptInit 3
+[15:01:40] OnScriptInit 4
+[15:01:40] 
+----------------------------------
+[15:01:40]  SAHeaven RP Script Started...
+[15:01:40] ----------------------------------
+
+[15:01:40] Number of vehicle models: 0
+[15:01:40]  
+[15:01:40]  ========================================== 
+[15:01:40]  |                                        | 
+[15:01:40]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[15:01:40]  |            available from:             | 
+[15:01:40]  |                                        | 
+[15:01:41]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[15:01:41]  |                                        | 
+[15:01:41]  ========================================== 
+[15:01:41]  
+[15:02:00] Incoming connection: 127.0.0.1:56967
+[15:02:00] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[15:02:09] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[15:04:51] filterscripts = ""  (string)
+[15:04:51] 
+[15:04:51] Server Plugins
+[15:04:51] --------------
+[15:04:51]  Loaded 0 plugins.
+
+[15:04:51] 
+[15:04:51] Filterscripts
+[15:04:51] ---------------
+[15:04:51]   Loaded 0 filterscripts.
+
+[15:04:51] OnScriptInit 1
+[15:04:51]  
+[15:04:51]  
+[15:04:51]  
+[15:04:51]  ======================================= 
+[15:04:51]  |                                     | 
+[15:04:51]  |        YSI version 1.06.0002        | 
+[15:04:51]  |        By Alex "Y_Less" Cole        | 
+[15:04:51]  |                                     | 
+[15:04:51]  ======================================= 
+[15:04:51]  
+[15:04:51]  
+[15:04:51]  
+[15:04:51] OnScriptInit 2
+[15:04:51] OnScriptInit 3
+[15:04:51] OnScriptInit 4
+[15:04:51] 
+----------------------------------
+[15:04:51]  SAHeaven RP Script Started...
+[15:04:51] ----------------------------------
+
+[15:04:51] Number of vehicle models: 0
+[15:04:51]  
+[15:04:51]  ========================================== 
+[15:04:51]  |                                        | 
+[15:04:51]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[15:04:51]  |            available from:             | 
+[15:04:51]  |                                        | 
+[15:04:51]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[15:04:51]  |                                        | 
+[15:04:51]  ========================================== 
+[15:04:51]  
+[15:05:44] Incoming connection: 127.0.0.1:56695
+[15:05:44] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[15:06:06] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[15:14:17] filterscripts = ""  (string)
+[15:14:17] 
+[15:14:17] Server Plugins
+[15:14:17] --------------
+[15:14:17]  Loaded 0 plugins.
+
+[15:14:17] 
+[15:14:17] Filterscripts
+[15:14:17] ---------------
+[15:14:17]   Loaded 0 filterscripts.
+
+[15:14:17] OnScriptInit 1
+[15:14:17]  
+[15:14:17]  
+[15:14:17]  
+[15:14:17]  ======================================= 
+[15:14:17]  |                                     | 
+[15:14:17]  |        YSI version 1.06.0002        | 
+[15:14:17]  |        By Alex "Y_Less" Cole        | 
+[15:14:17]  |                                     | 
+[15:14:17]  ======================================= 
+[15:14:17]  
+[15:14:17]  
+[15:14:17]  
+[15:14:17] OnScriptInit 2
+[15:14:17] OnScriptInit 3
+[15:14:17] OnScriptInit 4
+[15:14:17] 
+----------------------------------
+[15:14:17]  SAHeaven RP Script Started...
+[15:14:17] ----------------------------------
+
+[15:14:17] Number of vehicle models: 0
+[15:14:18]  
+[15:14:18]  ========================================== 
+[15:14:18]  |                                        | 
+[15:14:18]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[15:14:18]  |            available from:             | 
+[15:14:18]  |                                        | 
+[15:14:18]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[15:14:18]  |                                        | 
+[15:14:18]  ========================================== 
+[15:14:18]  
+[15:14:40] Incoming connection: 127.0.0.1:60164
+[15:14:40] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[15:14:53] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[15:19:42] filterscripts = ""  (string)
+[15:19:42] 
+[15:19:42] Server Plugins
+[15:19:42] --------------
+[15:19:42]  Loaded 0 plugins.
+
+[15:19:42] 
+[15:19:42] Filterscripts
+[15:19:42] ---------------
+[15:19:42]   Loaded 0 filterscripts.
+
+[15:19:42] OnScriptInit 1
+[15:19:42]  
+[15:19:42]  
+[15:19:42]  
+[15:19:42]  ======================================= 
+[15:19:42]  |                                     | 
+[15:19:42]  |        YSI version 1.06.0002        | 
+[15:19:42]  |        By Alex "Y_Less" Cole        | 
+[15:19:42]  |                                     | 
+[15:19:42]  ======================================= 
+[15:19:42]  
+[15:19:42]  
+[15:19:42]  
+[15:19:42] OnScriptInit 2
+[15:19:42] OnScriptInit 3
+[15:19:42] OnScriptInit 4
+[15:19:42] 
+----------------------------------
+[15:19:42]  SAHeaven RP Script Started...
+[15:19:42] ----------------------------------
+
+[15:19:42] Number of vehicle models: 0
+[15:19:42]  
+[15:19:42]  ========================================== 
+[15:19:42]  |                                        | 
+[15:19:42]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[15:19:42]  |            available from:             | 
+[15:19:42]  |                                        | 
+[15:19:42]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[15:19:42]  |                                        | 
+[15:19:42]  ========================================== 
+[15:19:42]  
+[15:20:02] Incoming connection: 127.0.0.1:63074
+[15:20:03] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[15:20:16] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[15:23:57] filterscripts = ""  (string)
+[15:23:57] 
+[15:23:57] Server Plugins
+[15:23:57] --------------
+[15:23:57]  Loaded 0 plugins.
+
+[15:23:57] 
+[15:23:57] Filterscripts
+[15:23:57] ---------------
+[15:23:57]   Loaded 0 filterscripts.
+
+[15:23:57] OnScriptInit 1
+[15:23:57]  
+[15:23:57]  
+[15:23:57]  
+[15:23:57]  ======================================= 
+[15:23:57]  |                                     | 
+[15:23:57]  |        YSI version 1.06.0002        | 
+[15:23:57]  |        By Alex "Y_Less" Cole        | 
+[15:23:57]  |                                     | 
+[15:23:57]  ======================================= 
+[15:23:57]  
+[15:23:57]  
+[15:23:57]  
+[15:23:57] OnScriptInit 2
+[15:23:57] OnScriptInit 3
+[15:23:57] OnScriptInit 4
+[15:23:57] 
+----------------------------------
+[15:23:57]  SAHeaven RP Script Started...
+[15:23:57] ----------------------------------
+
+[15:23:57] Number of vehicle models: 0
+[15:23:58]  
+[15:23:58]  ========================================== 
+[15:23:58]  |                                        | 
+[15:23:58]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[15:23:58]  |            available from:             | 
+[15:23:58]  |                                        | 
+[15:23:58]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[15:23:58]  |                                        | 
+[15:23:58]  ========================================== 
+[15:23:58]  
+[15:24:18] Incoming connection: 127.0.0.1:51240
+[15:24:18] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[15:24:47] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[15:26:22] filterscripts = ""  (string)
+[15:26:22] 
+[15:26:22] Server Plugins
+[15:26:22] --------------
+[15:26:22]  Loaded 0 plugins.
+
+[15:26:22] 
+[15:26:22] Filterscripts
+[15:26:22] ---------------
+[15:26:22]   Loaded 0 filterscripts.
+
+[15:26:22] OnScriptInit 1
+[15:26:22]  
+[15:26:22]  
+[15:26:22]  
+[15:26:22]  ======================================= 
+[15:26:22]  |                                     | 
+[15:26:22]  |        YSI version 1.06.0002        | 
+[15:26:22]  |        By Alex "Y_Less" Cole        | 
+[15:26:22]  |                                     | 
+[15:26:22]  ======================================= 
+[15:26:22]  
+[15:26:22]  
+[15:26:22]  
+[15:26:22] OnScriptInit 2
+[15:26:22] OnScriptInit 3
+[15:26:22] OnScriptInit 4
+[15:26:22] 
+----------------------------------
+[15:26:22]  SAHeaven RP Script Started...
+[15:26:22] ----------------------------------
+
+[15:26:22] Number of vehicle models: 0
+[15:26:22]  
+[15:26:22]  ========================================== 
+[15:26:22]  |                                        | 
+[15:26:22]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[15:26:22]  |            available from:             | 
+[15:26:22]  |                                        | 
+[15:26:22]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[15:26:22]  |                                        | 
+[15:26:22]  ========================================== 
+[15:26:22]  
+[15:26:42] Incoming connection: 127.0.0.1:64376
+[15:26:42] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[15:26:57] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[15:27:28] filterscripts = ""  (string)
+[15:27:28] 
+[15:27:28] Server Plugins
+[15:27:28] --------------
+[15:27:28]  Loaded 0 plugins.
+
+[15:27:28] 
+[15:27:28] Filterscripts
+[15:27:28] ---------------
+[15:27:28]   Loaded 0 filterscripts.
+
+[15:27:28] OnScriptInit 1
+[15:27:28]  
+[15:27:28]  
+[15:27:28]  
+[15:27:28]  ======================================= 
+[15:27:28]  |                                     | 
+[15:27:28]  |        YSI version 1.06.0002        | 
+[15:27:28]  |        By Alex "Y_Less" Cole        | 
+[15:27:28]  |                                     | 
+[15:27:28]  ======================================= 
+[15:27:28]  
+[15:27:28]  
+[15:27:28]  
+[15:27:28] OnScriptInit 2
+[15:27:28] OnScriptInit 3
+[15:27:28] OnScriptInit 4
+[15:27:28] 
+----------------------------------
+[15:27:28]  SAHeaven RP Script Started...
+[15:27:28] ----------------------------------
+
+[15:27:28] Number of vehicle models: 0
+[15:27:28]  
+[15:27:28]  ========================================== 
+[15:27:28]  |                                        | 
+[15:27:28]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[15:27:28]  |            available from:             | 
+[15:27:28]  |                                        | 
+[15:27:28]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[15:27:28]  |                                        | 
+[15:27:28]  ========================================== 
+[15:27:28]  
+[15:27:49] Incoming connection: 127.0.0.1:57692
+[15:27:49] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[15:28:01] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[15:28:41] filterscripts = ""  (string)
+[15:28:41] 
+[15:28:41] Server Plugins
+[15:28:41] --------------
+[15:28:41]  Loaded 0 plugins.
+
+[15:28:41] 
+[15:28:41] Filterscripts
+[15:28:41] ---------------
+[15:28:41]   Loaded 0 filterscripts.
+
+[15:28:41] OnScriptInit 1
+[15:28:41]  
+[15:28:41]  
+[15:28:41]  
+[15:28:41]  ======================================= 
+[15:28:41]  |                                     | 
+[15:28:41]  |        YSI version 1.06.0002        | 
+[15:28:41]  |        By Alex "Y_Less" Cole        | 
+[15:28:41]  |                                     | 
+[15:28:41]  ======================================= 
+[15:28:41]  
+[15:28:41]  
+[15:28:41]  
+[15:28:41] OnScriptInit 2
+[15:28:41] OnScriptInit 3
+[15:28:41] OnScriptInit 4
+[15:28:41] 
+----------------------------------
+[15:28:41]  SAHeaven RP Script Started...
+[15:28:41] ----------------------------------
+
+[15:28:41] Number of vehicle models: 0
+[15:28:41]  
+[15:28:41]  ========================================== 
+[15:28:41]  |                                        | 
+[15:28:41]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[15:28:41]  |            available from:             | 
+[15:28:41]  |                                        | 
+[15:28:41]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[15:28:41]  |                                        | 
+[15:28:41]  ========================================== 
+[15:28:41]  
+[15:29:01] Incoming connection: 127.0.0.1:51229
+[15:29:01] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[15:29:11] [death] Armand_Uberwald died 255
+[15:29:16] [death] Armand_Uberwald died 255
+[15:29:19] [death] Armand_Uberwald died 255
+[15:29:23] [death] Armand_Uberwald died 255
+[15:29:27] [death] Armand_Uberwald died 255
+[15:29:30] [death] Armand_Uberwald died 255
+[15:29:34] [death] Armand_Uberwald died 255
+[15:29:37] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[15:38:50] filterscripts = ""  (string)
+[15:38:50] 
+[15:38:50] Server Plugins
+[15:38:50] --------------
+[15:38:50]  Loaded 0 plugins.
+
+[15:38:50] 
+[15:38:50] Filterscripts
+[15:38:50] ---------------
+[15:38:50]   Loaded 0 filterscripts.
+
+[15:38:50] OnScriptInit 1
+[15:38:50]  
+[15:38:50]  
+[15:38:50]  
+[15:38:50]  ======================================= 
+[15:38:50]  |                                     | 
+[15:38:50]  |        YSI version 1.06.0002        | 
+[15:38:50]  |        By Alex "Y_Less" Cole        | 
+[15:38:50]  |                                     | 
+[15:38:50]  ======================================= 
+[15:38:50]  
+[15:38:50]  
+[15:38:50]  
+[15:38:50] OnScriptInit 2
+[15:38:50] OnScriptInit 3
+[15:38:50] OnScriptInit 4
+[15:38:50] 
+----------------------------------
+[15:38:50]  SAHeaven RP Script Started...
+[15:38:50] ----------------------------------
+
+[15:38:50] Number of vehicle models: 0
+[15:38:50]  
+[15:38:50]  ========================================== 
+[15:38:50]  |                                        | 
+[15:38:50]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[15:38:50]  |            available from:             | 
+[15:38:50]  |                                        | 
+[15:38:50]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[15:38:50]  |                                        | 
+[15:38:50]  ========================================== 
+[15:38:50]  
+[15:39:11] Incoming connection: 127.0.0.1:49287
+[15:39:11] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[15:39:26] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[15:40:13] filterscripts = ""  (string)
+[15:40:13] 
+[15:40:13] Server Plugins
+[15:40:13] --------------
+[15:40:13]  Loaded 0 plugins.
+
+[15:40:13] 
+[15:40:13] Filterscripts
+[15:40:13] ---------------
+[15:40:13]   Loaded 0 filterscripts.
+
+[15:40:13] OnScriptInit 1
+[15:40:13]  
+[15:40:13]  
+[15:40:13]  
+[15:40:13]  ======================================= 
+[15:40:13]  |                                     | 
+[15:40:13]  |        YSI version 1.06.0002        | 
+[15:40:13]  |        By Alex "Y_Less" Cole        | 
+[15:40:13]  |                                     | 
+[15:40:13]  ======================================= 
+[15:40:13]  
+[15:40:13]  
+[15:40:13]  
+[15:40:13] OnScriptInit 2
+[15:40:13] OnScriptInit 3
+[15:40:13] OnScriptInit 4
+[15:40:13] 
+----------------------------------
+[15:40:13]  SAHeaven RP Script Started...
+[15:40:13] ----------------------------------
+
+[15:40:13] Number of vehicle models: 0
+[15:40:13]  
+[15:40:13]  ========================================== 
+[15:40:13]  |                                        | 
+[15:40:13]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[15:40:13]  |            available from:             | 
+[15:40:13]  |                                        | 
+[15:40:13]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[15:40:13]  |                                        | 
+[15:40:13]  ========================================== 
+[15:40:13]  
+[15:40:33] Incoming connection: 127.0.0.1:53422
+[15:40:33] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[15:40:45] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[15:42:20] filterscripts = ""  (string)
+[15:42:20] 
+[15:42:20] Server Plugins
+[15:42:20] --------------
+[15:42:20]  Loaded 0 plugins.
+
+[15:42:20] 
+[15:42:20] Filterscripts
+[15:42:20] ---------------
+[15:42:20]   Loaded 0 filterscripts.
+
+[15:42:20] OnScriptInit 1
+[15:42:20]  
+[15:42:20]  
+[15:42:20]  
+[15:42:20]  ======================================= 
+[15:42:20]  |                                     | 
+[15:42:20]  |        YSI version 1.06.0002        | 
+[15:42:20]  |        By Alex "Y_Less" Cole        | 
+[15:42:20]  |                                     | 
+[15:42:20]  ======================================= 
+[15:42:20]  
+[15:42:20]  
+[15:42:20]  
+[15:42:20] OnScriptInit 2
+[15:42:20] OnScriptInit 3
+[15:42:20] OnScriptInit 4
+[15:42:20] 
+----------------------------------
+[15:42:20]  SAHeaven RP Script Started...
+[15:42:20] ----------------------------------
+
+[15:42:20] Number of vehicle models: 0
+[15:42:20]  
+[15:42:20]  ========================================== 
+[15:42:20]  |                                        | 
+[15:42:20]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[15:42:20]  |            available from:             | 
+[15:42:20]  |                                        | 
+[15:42:20]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[15:42:20]  |                                        | 
+[15:42:20]  ========================================== 
+[15:42:20]  
+[15:42:41] Incoming connection: 127.0.0.1:60617
+[15:42:41] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[15:43:04] [part] Armand_Uberwald has left the server (0:1)
+[15:43:28] Incoming connection: 127.0.0.1:54309
+[15:43:28] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[15:43:48] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[15:59:39] filterscripts = ""  (string)
+[15:59:39] 
+[15:59:39] Server Plugins
+[15:59:39] --------------
+[15:59:39]  Loaded 0 plugins.
+
+[15:59:39] 
+[15:59:39] Filterscripts
+[15:59:39] ---------------
+[15:59:39]   Loaded 0 filterscripts.
+
+[15:59:39] OnScriptInit 1
+[15:59:39]  
+[15:59:39]  
+[15:59:39]  
+[15:59:39]  ======================================= 
+[15:59:39]  |                                     | 
+[15:59:39]  |        YSI version 1.06.0002        | 
+[15:59:39]  |        By Alex "Y_Less" Cole        | 
+[15:59:39]  |                                     | 
+[15:59:39]  ======================================= 
+[15:59:39]  
+[15:59:39]  
+[15:59:39]  
+[15:59:39] OnScriptInit 2
+[15:59:39] OnScriptInit 3
+[15:59:39] OnScriptInit 4
+[15:59:39] 
+----------------------------------
+[15:59:39]  SAHeaven RP Script Started...
+[15:59:39] ----------------------------------
+
+[15:59:39] Number of vehicle models: 0
+[15:59:39]  
+[15:59:39]  ========================================== 
+[15:59:39]  |                                        | 
+[15:59:39]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[15:59:39]  |            available from:             | 
+[15:59:39]  |                                        | 
+[15:59:39]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[15:59:39]  |                                        | 
+[15:59:39]  ========================================== 
+[15:59:39]  
+[15:59:59] Incoming connection: 127.0.0.1:62824
+[15:59:59] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[16:00:16] [part] Armand_Uberwald has left the server (0:1)
+[16:01:40] Incoming connection: 127.0.0.1:50452
+[16:01:40] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[16:01:52] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[16:08:21] filterscripts = ""  (string)
+[16:08:21] 
+[16:08:21] Server Plugins
+[16:08:21] --------------
+[16:08:21]  Loaded 0 plugins.
+
+[16:08:21] 
+[16:08:21] Filterscripts
+[16:08:21] ---------------
+[16:08:21]   Loaded 0 filterscripts.
+
+[16:08:21] OnScriptInit 1
+[16:08:21]  
+[16:08:21]  
+[16:08:21]  
+[16:08:21]  ======================================= 
+[16:08:21]  |                                     | 
+[16:08:21]  |        YSI version 1.06.0002        | 
+[16:08:21]  |        By Alex "Y_Less" Cole        | 
+[16:08:21]  |                                     | 
+[16:08:21]  ======================================= 
+[16:08:21]  
+[16:08:21]  
+[16:08:21]  
+[16:08:21] OnScriptInit 2
+[16:08:21] OnScriptInit 3
+[16:08:21] OnScriptInit 4
+[16:08:21] 
+----------------------------------
+[16:08:21]  SAHeaven RP Script Started...
+[16:08:21] ----------------------------------
+
+[16:08:21] Number of vehicle models: 0
+[16:08:22]  
+[16:08:22]  ========================================== 
+[16:08:22]  |                                        | 
+[16:08:22]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[16:08:22]  |            available from:             | 
+[16:08:22]  |                                        | 
+[16:08:22]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[16:08:22]  |                                        | 
+[16:08:22]  ========================================== 
+[16:08:22]  
+[16:08:46] Incoming connection: 127.0.0.1:61328
+[16:08:46] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[16:09:18] [part] Armand_Uberwald has left the server (0:1)
+[16:09:41] Incoming connection: 127.0.0.1:55698
+[16:09:41] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[16:09:56] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[16:25:12] filterscripts = ""  (string)
+[16:25:12] 
+[16:25:12] Server Plugins
+[16:25:12] --------------
+[16:25:12]  Loaded 0 plugins.
+
+[16:25:12] 
+[16:25:12] Filterscripts
+[16:25:12] ---------------
+[16:25:12]   Loaded 0 filterscripts.
+
+[16:25:12] OnScriptInit 1
+[16:25:12]  
+[16:25:12]  
+[16:25:12]  
+[16:25:12]  ======================================= 
+[16:25:12]  |                                     | 
+[16:25:12]  |        YSI version 1.06.0002        | 
+[16:25:12]  |        By Alex "Y_Less" Cole        | 
+[16:25:12]  |                                     | 
+[16:25:12]  ======================================= 
+[16:25:12]  
+[16:25:12]  
+[16:25:12]  
+[16:25:12] OnScriptInit 2
+[16:25:12] OnScriptInit 3
+[16:25:12] OnScriptInit 4
+[16:25:12] 
+----------------------------------
+[16:25:12]  SAHeaven RP Script Started...
+[16:25:12] ----------------------------------
+
+[16:25:12] Number of vehicle models: 0
+[16:25:12]  
+[16:25:12]  ========================================== 
+[16:25:12]  |                                        | 
+[16:25:12]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[16:25:12]  |            available from:             | 
+[16:25:12]  |                                        | 
+[16:25:12]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[16:25:12]  |                                        | 
+[16:25:12]  ========================================== 
+[16:25:12]  
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[16:25:22] filterscripts = ""  (string)
+[16:25:22] 
+[16:25:22] Server Plugins
+[16:25:22] --------------
+[16:25:22]  Loaded 0 plugins.
+
+[16:25:22] 
+[16:25:22] Filterscripts
+[16:25:22] ---------------
+[16:25:22]   Loaded 0 filterscripts.
+
+[16:25:22] OnScriptInit 1
+[16:25:22]  
+[16:25:22]  
+[16:25:22]  
+[16:25:22]  ======================================= 
+[16:25:22]  |                                     | 
+[16:25:22]  |        YSI version 1.06.0002        | 
+[16:25:22]  |        By Alex "Y_Less" Cole        | 
+[16:25:22]  |                                     | 
+[16:25:22]  ======================================= 
+[16:25:22]  
+[16:25:22]  
+[16:25:22]  
+[16:25:22] OnScriptInit 2
+[16:25:22] OnScriptInit 3
+[16:25:22] OnScriptInit 4
+[16:25:22] 
+----------------------------------
+[16:25:22]  SAHeaven RP Script Started...
+[16:25:22] ----------------------------------
+
+[16:25:22] Number of vehicle models: 0
+[16:25:22]  
+[16:25:22]  ========================================== 
+[16:25:22]  |                                        | 
+[16:25:22]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[16:25:22]  |            available from:             | 
+[16:25:22]  |                                        | 
+[16:25:22]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[16:25:22]  |                                        | 
+[16:25:22]  ========================================== 
+[16:25:22]  
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[16:27:57] filterscripts = ""  (string)
+[16:27:57] 
+[16:27:57] Server Plugins
+[16:27:57] --------------
+[16:27:57]  Loaded 0 plugins.
+
+[16:27:57] 
+[16:27:57] Filterscripts
+[16:27:57] ---------------
+[16:27:57]   Loaded 0 filterscripts.
+
+[16:27:57] OnScriptInit 1
+[16:27:57]  
+[16:27:57]  
+[16:27:57]  
+[16:27:57]  ======================================= 
+[16:27:57]  |                                     | 
+[16:27:57]  |        YSI version 1.06.0002        | 
+[16:27:57]  |        By Alex "Y_Less" Cole        | 
+[16:27:57]  |                                     | 
+[16:27:57]  ======================================= 
+[16:27:57]  
+[16:27:57]  
+[16:27:57]  
+[16:27:57] OnScriptInit 2
+[16:27:57] OnScriptInit 3
+[16:27:57] OnScriptInit 4
+[16:27:57] 
+----------------------------------
+[16:27:57]  SAHeaven RP Script Started...
+[16:27:57] ----------------------------------
+
+[16:27:57] Number of vehicle models: 0
+[16:27:57]  
+[16:27:57]  ========================================== 
+[16:27:57]  |                                        | 
+[16:27:57]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[16:27:57]  |            available from:             | 
+[16:27:57]  |                                        | 
+[16:27:57]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[16:27:57]  |                                        | 
+[16:27:57]  ========================================== 
+[16:27:57]  
+[16:28:17] Incoming connection: 127.0.0.1:58078
+[16:28:17] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[16:28:35] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[16:31:10] filterscripts = ""  (string)
+[16:31:10] 
+[16:31:10] Server Plugins
+[16:31:10] --------------
+[16:31:10]  Loaded 0 plugins.
+
+[16:31:10] 
+[16:31:10] Filterscripts
+[16:31:10] ---------------
+[16:31:10]   Loaded 0 filterscripts.
+
+[16:31:10] OnScriptInit 1
+[16:31:10]  
+[16:31:10]  
+[16:31:10]  
+[16:31:10]  ======================================= 
+[16:31:10]  |                                     | 
+[16:31:10]  |        YSI version 1.06.0002        | 
+[16:31:10]  |        By Alex "Y_Less" Cole        | 
+[16:31:10]  |                                     | 
+[16:31:10]  ======================================= 
+[16:31:10]  
+[16:31:10]  
+[16:31:10]  
+[16:31:10] OnScriptInit 2
+[16:31:10] OnScriptInit 3
+[16:31:10] OnScriptInit 4
+[16:31:10] 
+----------------------------------
+[16:31:10]  SAHeaven RP Script Started...
+[16:31:10] ----------------------------------
+
+[16:31:10] Number of vehicle models: 0
+[16:31:10]  
+[16:31:10]  ========================================== 
+[16:31:10]  |                                        | 
+[16:31:10]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[16:31:10]  |            available from:             | 
+[16:31:10]  |                                        | 
+[16:31:10]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[16:31:10]  |                                        | 
+[16:31:10]  ========================================== 
+[16:31:10]  
+[16:31:32] Incoming connection: 127.0.0.1:49406
+[16:31:32] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[16:31:52] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[16:33:47] filterscripts = ""  (string)
+[16:33:47] 
+[16:33:47] Server Plugins
+[16:33:47] --------------
+[16:33:47]  Loaded 0 plugins.
+
+[16:33:47] 
+[16:33:47] Filterscripts
+[16:33:47] ---------------
+[16:33:47]   Loaded 0 filterscripts.
+
+[16:33:47] OnScriptInit 1
+[16:33:47]  
+[16:33:47]  
+[16:33:47]  
+[16:33:47]  ======================================= 
+[16:33:47]  |                                     | 
+[16:33:47]  |        YSI version 1.06.0002        | 
+[16:33:47]  |        By Alex "Y_Less" Cole        | 
+[16:33:47]  |                                     | 
+[16:33:47]  ======================================= 
+[16:33:47]  
+[16:33:47]  
+[16:33:47]  
+[16:33:47] OnScriptInit 2
+[16:33:47] OnScriptInit 3
+[16:33:47] OnScriptInit 4
+[16:33:47] 
+----------------------------------
+[16:33:47]  SAHeaven RP Script Started...
+[16:33:47] ----------------------------------
+
+[16:33:47] Number of vehicle models: 0
+[16:33:47]  
+[16:33:47]  ========================================== 
+[16:33:47]  |                                        | 
+[16:33:47]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[16:33:47]  |            available from:             | 
+[16:33:47]  |                                        | 
+[16:33:47]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[16:33:47]  |                                        | 
+[16:33:47]  ========================================== 
+[16:33:47]  
+[16:34:15] Incoming connection: 127.0.0.1:60797
+[16:34:15] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[16:34:29] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[16:38:35] filterscripts = ""  (string)
+[16:38:35] 
+[16:38:35] Server Plugins
+[16:38:35] --------------
+[16:38:35]  Loaded 0 plugins.
+
+[16:38:35] 
+[16:38:35] Filterscripts
+[16:38:35] ---------------
+[16:38:35]   Loaded 0 filterscripts.
+
+[16:38:35] OnScriptInit 1
+[16:38:35]  
+[16:38:35]  
+[16:38:35]  
+[16:38:35]  ======================================= 
+[16:38:35]  |                                     | 
+[16:38:35]  |        YSI version 1.06.0002        | 
+[16:38:35]  |        By Alex "Y_Less" Cole        | 
+[16:38:35]  |                                     | 
+[16:38:35]  ======================================= 
+[16:38:35]  
+[16:38:35]  
+[16:38:35]  
+[16:38:35] OnScriptInit 2
+[16:38:35] OnScriptInit 3
+[16:38:35] OnScriptInit 4
+[16:38:35] 
+----------------------------------
+[16:38:35]  SAHeaven RP Script Started...
+[16:38:35] ----------------------------------
+
+[16:38:35] Number of vehicle models: 0
+[16:38:35]  
+[16:38:35]  ========================================== 
+[16:38:35]  |                                        | 
+[16:38:35]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[16:38:35]  |            available from:             | 
+[16:38:35]  |                                        | 
+[16:38:35]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[16:38:35]  |                                        | 
+[16:38:35]  ========================================== 
+[16:38:35]  
+[16:39:00] Incoming connection: 127.0.0.1:64226
+[16:39:00] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[16:39:25] [part] Armand_Uberwald has left the server (0:1)
+[16:39:48] Incoming connection: 127.0.0.1:64227
+[16:39:48] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[16:40:11] [part] Armand_Uberwald has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[16:40:26] filterscripts = ""  (string)
+[16:40:26] 
+[16:40:26] Server Plugins
+[16:40:26] --------------
+[16:40:26]  Loaded 0 plugins.
+
+[16:40:26] 
+[16:40:26] Filterscripts
+[16:40:26] ---------------
+[16:40:26]   Loaded 0 filterscripts.
+
+[16:40:26] OnScriptInit 1
+[16:40:26]  
+[16:40:26]  
+[16:40:26]  
+[16:40:26]  ======================================= 
+[16:40:26]  |                                     | 
+[16:40:26]  |        YSI version 1.06.0002        | 
+[16:40:26]  |        By Alex "Y_Less" Cole        | 
+[16:40:26]  |                                     | 
+[16:40:26]  ======================================= 
+[16:40:26]  
+[16:40:26]  
+[16:40:26]  
+[16:40:26] OnScriptInit 2
+[16:40:26] OnScriptInit 3
+[16:40:26] OnScriptInit 4
+[16:40:26] 
+----------------------------------
+[16:40:26]  SAHeaven RP Script Started...
+[16:40:26] ----------------------------------
+
+[16:40:26] Number of vehicle models: 0
+[16:40:26]  
+[16:40:26]  ========================================== 
+[16:40:26]  |                                        | 
+[16:40:26]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[16:40:26]  |            available from:             | 
+[16:40:26]  |                                        | 
+[16:40:26]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[16:40:26]  |                                        | 
+[16:40:26]  ========================================== 
+[16:40:26]  
+[16:41:06] Incoming connection: 127.0.0.1:51993
+[16:41:06] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[16:41:23] [part] Armand_Uberwald has left the server (0:1)
+[16:41:51] Incoming connection: 127.0.0.1:50062
+[16:41:51] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[17:14:10] filterscripts = ""  (string)
+[17:14:10] 
+[17:14:10] Server Plugins
+[17:14:10] --------------
+[17:14:10]  Loaded 0 plugins.
+
+[17:14:10] 
+[17:14:10] Filterscripts
+[17:14:10] ---------------
+[17:14:10]   Loaded 0 filterscripts.
+
+[17:14:10] OnScriptInit 1
+[17:14:10]  
+[17:14:10]  
+[17:14:10]  
+[17:14:10]  ======================================= 
+[17:14:10]  |                                     | 
+[17:14:10]  |        YSI version 1.06.0002        | 
+[17:14:10]  |        By Alex "Y_Less" Cole        | 
+[17:14:10]  |                                     | 
+[17:14:10]  ======================================= 
+[17:14:10]  
+[17:14:10]  
+[17:14:10]  
+[17:14:10] OnScriptInit 2
+[17:14:10] OnScriptInit 3
+[17:14:10] OnScriptInit 4
+[17:14:10] 
+----------------------------------
+[17:14:10]  SAHeaven RP Script Started...
+[17:14:10] ----------------------------------
+
+[17:14:10] Number of vehicle models: 0
+[17:14:10]  
+[17:14:10]  ========================================== 
+[17:14:10]  |                                        | 
+[17:14:10]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[17:14:10]  |            available from:             | 
+[17:14:10]  |                                        | 
+[17:14:10]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[17:14:10]  |                                        | 
+[17:14:10]  ========================================== 
+[17:14:10]  
+[17:14:17] [part] Armand_Uberwald has left the server (0:2)
+[17:14:46] Incoming connection: 127.0.0.1:63541
+[17:14:46] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[17:15:43] [part] Armand_Uberwald has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[17:16:29] filterscripts = ""  (string)
+[17:16:29] 
+[17:16:29] Server Plugins
+[17:16:29] --------------
+[17:16:29]  Loaded 0 plugins.
+
+[17:16:29] 
+[17:16:29] Filterscripts
+[17:16:29] ---------------
+[17:16:29]   Loaded 0 filterscripts.
+
+[17:16:29] OnScriptInit 1
+[17:16:29]  
+[17:16:29]  
+[17:16:29]  
+[17:16:29]  ======================================= 
+[17:16:29]  |                                     | 
+[17:16:29]  |        YSI version 1.06.0002        | 
+[17:16:29]  |        By Alex "Y_Less" Cole        | 
+[17:16:29]  |                                     | 
+[17:16:29]  ======================================= 
+[17:16:29]  
+[17:16:29]  
+[17:16:29]  
+[17:16:29] OnScriptInit 2
+[17:16:29] OnScriptInit 3
+[17:16:29] OnScriptInit 4
+[17:16:29] 
+----------------------------------
+[17:16:29]  SAHeaven RP Script Started...
+[17:16:29] ----------------------------------
+
+[17:16:29] Number of vehicle models: 0
+[17:16:29]  
+[17:16:29]  ========================================== 
+[17:16:29]  |                                        | 
+[17:16:29]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[17:16:29]  |            available from:             | 
+[17:16:29]  |                                        | 
+[17:16:29]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[17:16:29]  |                                        | 
+[17:16:29]  ========================================== 
+[17:16:29]  
+[17:16:42] Incoming connection: 127.0.0.1:52316
+[17:16:42] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[17:17:00] [part] Armand_Uberwald has left the server (0:1)
+[17:17:25] Incoming connection: 127.0.0.1:59722
+[17:17:26] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[17:17:37] [part] Armand_Uberwald has left the server (0:1)
+[17:18:42] Incoming connection: 127.0.0.1:54039
+[17:18:42] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[17:18:58] [part] Armand_Uberwald has left the server (0:1)
+[17:19:37] Incoming connection: 127.0.0.1:62173
+[17:19:37] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[17:19:51] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[17:20:07] filterscripts = ""  (string)
+[17:20:07] 
+[17:20:07] Server Plugins
+[17:20:07] --------------
+[17:20:07]  Loaded 0 plugins.
+
+[17:20:07] 
+[17:20:07] Filterscripts
+[17:20:07] ---------------
+[17:20:07]   Loaded 0 filterscripts.
+
+[17:20:07] OnScriptInit 1
+[17:20:07]  
+[17:20:07]  
+[17:20:07]  
+[17:20:07]  ======================================= 
+[17:20:07]  |                                     | 
+[17:20:07]  |        YSI version 1.06.0002        | 
+[17:20:07]  |        By Alex "Y_Less" Cole        | 
+[17:20:07]  |                                     | 
+[17:20:07]  ======================================= 
+[17:20:07]  
+[17:20:07]  
+[17:20:07]  
+[17:20:07] OnScriptInit 2
+[17:20:07] OnScriptInit 3
+[17:20:07] OnScriptInit 4
+[17:20:07] 
+----------------------------------
+[17:20:07]  SAHeaven RP Script Started...
+[17:20:07] ----------------------------------
+
+[17:20:07] Number of vehicle models: 0
+[17:20:07]  
+[17:20:07]  ========================================== 
+[17:20:07]  |                                        | 
+[17:20:07]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[17:20:07]  |            available from:             | 
+[17:20:07]  |                                        | 
+[17:20:07]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[17:20:07]  |                                        | 
+[17:20:07]  ========================================== 
+[17:20:07]  
+[17:20:26] Incoming connection: 127.0.0.1:65133
+[17:20:26] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[17:20:53] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[17:21:58] filterscripts = ""  (string)
+[17:21:58] 
+[17:21:58] Server Plugins
+[17:21:58] --------------
+[17:21:58]  Loaded 0 plugins.
+
+[17:21:58] 
+[17:21:58] Filterscripts
+[17:21:58] ---------------
+[17:21:58]   Loaded 0 filterscripts.
+
+[17:21:58] OnScriptInit 1
+[17:21:58]  
+[17:21:58]  
+[17:21:58]  
+[17:21:58]  ======================================= 
+[17:21:58]  |                                     | 
+[17:21:58]  |        YSI version 1.06.0002        | 
+[17:21:58]  |        By Alex "Y_Less" Cole        | 
+[17:21:58]  |                                     | 
+[17:21:58]  ======================================= 
+[17:21:58]  
+[17:21:58]  
+[17:21:58]  
+[17:21:58] OnScriptInit 2
+[17:21:58] OnScriptInit 3
+[17:21:58] OnScriptInit 4
+[17:21:58] 
+----------------------------------
+[17:21:58]  SAHeaven RP Script Started...
+[17:21:58] ----------------------------------
+
+[17:21:58] Number of vehicle models: 0
+[17:21:58]  
+[17:21:58]  ========================================== 
+[17:21:58]  |                                        | 
+[17:21:58]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[17:21:58]  |            available from:             | 
+[17:21:58]  |                                        | 
+[17:21:58]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[17:21:58]  |                                        | 
+[17:21:58]  ========================================== 
+[17:21:58]  
+[17:22:17] Incoming connection: 127.0.0.1:64326
+[17:22:17] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[17:23:32] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[17:23:48] filterscripts = ""  (string)
+[17:23:48] 
+[17:23:48] Server Plugins
+[17:23:48] --------------
+[17:23:48]  Loaded 0 plugins.
+
+[17:23:48] 
+[17:23:48] Filterscripts
+[17:23:48] ---------------
+[17:23:48]   Loaded 0 filterscripts.
+
+[17:23:48] OnScriptInit 1
+[17:23:48]  
+[17:23:48]  
+[17:23:48]  
+[17:23:48]  ======================================= 
+[17:23:48]  |                                     | 
+[17:23:48]  |        YSI version 1.06.0002        | 
+[17:23:48]  |        By Alex "Y_Less" Cole        | 
+[17:23:48]  |                                     | 
+[17:23:48]  ======================================= 
+[17:23:48]  
+[17:23:48]  
+[17:23:48]  
+[17:23:48] OnScriptInit 2
+[17:23:48] OnScriptInit 3
+[17:23:48] OnScriptInit 4
+[17:23:48] 
+----------------------------------
+[17:23:48]  SAHeaven RP Script Started...
+[17:23:48] ----------------------------------
+
+[17:23:48] Number of vehicle models: 0
+[17:23:48]  
+[17:23:48]  ========================================== 
+[17:23:48]  |                                        | 
+[17:23:48]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[17:23:48]  |            available from:             | 
+[17:23:48]  |                                        | 
+[17:23:48]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[17:23:48]  |                                        | 
+[17:23:48]  ========================================== 
+[17:23:48]  
+[17:24:07] Incoming connection: 127.0.0.1:50930
+[17:24:08] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[17:24:10] [death] Armand_Uberwald died 255
+[17:24:18] [death] Armand_Uberwald died 255
+[17:24:21] [death] Armand_Uberwald died 255
+[17:24:24] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[17:30:30] filterscripts = ""  (string)
+[17:30:30] 
+[17:30:30] Server Plugins
+[17:30:30] --------------
+[17:30:30]  Loaded 0 plugins.
+
+[17:30:30] 
+[17:30:30] Filterscripts
+[17:30:30] ---------------
+[17:30:30]   Loaded 0 filterscripts.
+
+[17:30:30] OnScriptInit 1
+[17:30:30]  
+[17:30:30]  
+[17:30:30]  
+[17:30:30]  ======================================= 
+[17:30:30]  |                                     | 
+[17:30:30]  |        YSI version 1.06.0002        | 
+[17:30:30]  |        By Alex "Y_Less" Cole        | 
+[17:30:30]  |                                     | 
+[17:30:30]  ======================================= 
+[17:30:30]  
+[17:30:30]  
+[17:30:30]  
+[17:30:30] OnScriptInit 2
+[17:30:30] OnScriptInit 3
+[17:30:30] OnScriptInit 4
+[17:30:30] 
+----------------------------------
+[17:30:30]  SAHeaven RP Script Started...
+[17:30:30] ----------------------------------
+
+[17:30:30] Number of vehicle models: 0
+[17:30:31]  
+[17:30:31]  ========================================== 
+[17:30:31]  |                                        | 
+[17:30:31]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[17:30:31]  |            available from:             | 
+[17:30:31]  |                                        | 
+[17:30:31]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[17:30:31]  |                                        | 
+[17:30:31]  ========================================== 
+[17:30:31]  
+[17:31:59] Incoming connection: 127.0.0.1:57379
+[17:31:59] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[17:32:47] [part] Armand_Uberwald has left the server (0:1)
+[17:33:45] Incoming connection: 127.0.0.1:63166
+[17:33:45] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[17:33:59] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[17:34:16] filterscripts = ""  (string)
+[17:34:16] 
+[17:34:16] Server Plugins
+[17:34:16] --------------
+[17:34:16]  Loaded 0 plugins.
+
+[17:34:16] 
+[17:34:16] Filterscripts
+[17:34:16] ---------------
+[17:34:16]   Loaded 0 filterscripts.
+
+[17:34:16] OnScriptInit 1
+[17:34:16]  
+[17:34:16]  
+[17:34:16]  
+[17:34:16]  ======================================= 
+[17:34:16]  |                                     | 
+[17:34:16]  |        YSI version 1.06.0002        | 
+[17:34:16]  |        By Alex "Y_Less" Cole        | 
+[17:34:16]  |                                     | 
+[17:34:16]  ======================================= 
+[17:34:16]  
+[17:34:16]  
+[17:34:16]  
+[17:34:16] OnScriptInit 2
+[17:34:16] OnScriptInit 3
+[17:34:16] OnScriptInit 4
+[17:34:16] 
+----------------------------------
+[17:34:16]  SAHeaven RP Script Started...
+[17:34:16] ----------------------------------
+
+[17:34:16] Number of vehicle models: 0
+[17:34:16]  
+[17:34:16]  ========================================== 
+[17:34:16]  |                                        | 
+[17:34:16]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[17:34:16]  |            available from:             | 
+[17:34:16]  |                                        | 
+[17:34:16]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[17:34:16]  |                                        | 
+[17:34:16]  ========================================== 
+[17:34:16]  
+[17:34:35] Incoming connection: 127.0.0.1:56999
+[17:34:35] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[17:35:05] [part] Armand_Uberwald has left the server (0:1)
+[17:35:31] Incoming connection: 127.0.0.1:60031
+[17:35:31] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[17:42:04] filterscripts = ""  (string)
+[17:42:04] 
+[17:42:04] Server Plugins
+[17:42:04] --------------
+[17:42:04]  Loaded 0 plugins.
+
+[17:42:05] 
+[17:42:05] Filterscripts
+[17:42:05] ---------------
+[17:42:05]   Loaded 0 filterscripts.
+
+[17:42:05] OnScriptInit 1
+[17:42:05]  
+[17:42:05]  
+[17:42:05]  
+[17:42:05]  ======================================= 
+[17:42:05]  |                                     | 
+[17:42:05]  |        YSI version 1.06.0002        | 
+[17:42:05]  |        By Alex "Y_Less" Cole        | 
+[17:42:05]  |                                     | 
+[17:42:05]  ======================================= 
+[17:42:05]  
+[17:42:05]  
+[17:42:05]  
+[17:42:05] OnScriptInit 2
+[17:42:05] OnScriptInit 3
+[17:42:05] OnScriptInit 4
+[17:42:05] 
+----------------------------------
+[17:42:05]  SAHeaven RP Script Started...
+[17:42:05] ----------------------------------
+
+[17:42:05] Number of vehicle models: 0
+[17:42:05]  
+[17:42:05]  ========================================== 
+[17:42:05]  |                                        | 
+[17:42:05]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[17:42:05]  |            available from:             | 
+[17:42:05]  |                                        | 
+[17:42:05]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[17:42:05]  |                                        | 
+[17:42:05]  ========================================== 
+[17:42:05]  
+[17:42:16] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[17:42:48] filterscripts = ""  (string)
+[17:42:48] 
+[17:42:48] Server Plugins
+[17:42:48] --------------
+[17:42:48]  Loaded 0 plugins.
+
+[17:42:48] 
+[17:42:48] Filterscripts
+[17:42:48] ---------------
+[17:42:48]   Loaded 0 filterscripts.
+
+[17:42:48] OnScriptInit 1
+[17:42:48]  
+[17:42:48]  
+[17:42:48]  
+[17:42:48]  ======================================= 
+[17:42:48]  |                                     | 
+[17:42:48]  |        YSI version 1.06.0002        | 
+[17:42:48]  |        By Alex "Y_Less" Cole        | 
+[17:42:48]  |                                     | 
+[17:42:48]  ======================================= 
+[17:42:48]  
+[17:42:48]  
+[17:42:48]  
+[17:42:48] OnScriptInit 2
+[17:42:48] OnScriptInit 3
+[17:42:48] OnScriptInit 4
+[17:42:48] 
+----------------------------------
+[17:42:48]  SAHeaven RP Script Started...
+[17:42:48] ----------------------------------
+
+[17:42:48] Number of vehicle models: 0
+[17:42:48]  
+[17:42:48]  ========================================== 
+[17:42:48]  |                                        | 
+[17:42:48]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[17:42:48]  |            available from:             | 
+[17:42:48]  |                                        | 
+[17:42:48]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[17:42:48]  |                                        | 
+[17:42:48]  ========================================== 
+[17:42:48]  
+[17:43:12] Incoming connection: 127.0.0.1:55873
+[17:43:13] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[17:44:13] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[17:44:44] filterscripts = ""  (string)
+[17:44:44] 
+[17:44:44] Server Plugins
+[17:44:44] --------------
+[17:44:44]  Loaded 0 plugins.
+
+[17:44:44] 
+[17:44:44] Filterscripts
+[17:44:44] ---------------
+[17:44:44]   Loaded 0 filterscripts.
+
+[17:44:44] OnScriptInit 1
+[17:44:44]  
+[17:44:44]  
+[17:44:44]  
+[17:44:44]  ======================================= 
+[17:44:44]  |                                     | 
+[17:44:44]  |        YSI version 1.06.0002        | 
+[17:44:44]  |        By Alex "Y_Less" Cole        | 
+[17:44:44]  |                                     | 
+[17:44:44]  ======================================= 
+[17:44:44]  
+[17:44:44]  
+[17:44:44]  
+[17:44:44] OnScriptInit 2
+[17:44:44] OnScriptInit 3
+[17:44:44] OnScriptInit 4
+[17:44:44] 
+----------------------------------
+[17:44:44]  SAHeaven RP Script Started...
+[17:44:44] ----------------------------------
+
+[17:44:44] Number of vehicle models: 0
+[17:44:44]  
+[17:44:44]  ========================================== 
+[17:44:44]  |                                        | 
+[17:44:44]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[17:44:44]  |            available from:             | 
+[17:44:44]  |                                        | 
+[17:44:44]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[17:44:44]  |                                        | 
+[17:44:44]  ========================================== 
+[17:44:44]  
+[17:45:13] Incoming connection: 127.0.0.1:64991
+[17:45:13] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[17:45:23] [death] Armand_Uberwald died 255
+[17:45:55] [part] Armand_Uberwald has left the server (0:1)
+[17:46:32] Incoming connection: 127.0.0.1:60167
+[17:46:32] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[17:46:52] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[17:47:13] filterscripts = ""  (string)
+[17:47:13] 
+[17:47:13] Server Plugins
+[17:47:13] --------------
+[17:47:13]  Loaded 0 plugins.
+
+[17:47:13] 
+[17:47:13] Filterscripts
+[17:47:13] ---------------
+[17:47:13]   Loaded 0 filterscripts.
+
+[17:47:13] OnScriptInit 1
+[17:47:13]  
+[17:47:13]  
+[17:47:13]  
+[17:47:13]  ======================================= 
+[17:47:13]  |                                     | 
+[17:47:13]  |        YSI version 1.06.0002        | 
+[17:47:13]  |        By Alex "Y_Less" Cole        | 
+[17:47:13]  |                                     | 
+[17:47:13]  ======================================= 
+[17:47:13]  
+[17:47:13]  
+[17:47:13]  
+[17:47:13] OnScriptInit 2
+[17:47:13] OnScriptInit 3
+[17:47:13] OnScriptInit 4
+[17:47:13] 
+----------------------------------
+[17:47:13]  SAHeaven RP Script Started...
+[17:47:13] ----------------------------------
+
+[17:47:13] Number of vehicle models: 0
+[17:47:14]  
+[17:47:14]  ========================================== 
+[17:47:14]  |                                        | 
+[17:47:14]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[17:47:14]  |            available from:             | 
+[17:47:14]  |                                        | 
+[17:47:14]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[17:47:14]  |                                        | 
+[17:47:14]  ========================================== 
+[17:47:14]  
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[17:55:14] filterscripts = ""  (string)
+[17:55:14] 
+[17:55:14] Server Plugins
+[17:55:14] --------------
+[17:55:14]  Loaded 0 plugins.
+
+[17:55:14] 
+[17:55:14] Filterscripts
+[17:55:14] ---------------
+[17:55:14]   Loaded 0 filterscripts.
+
+[17:55:14] OnScriptInit 1
+[17:55:14]  
+[17:55:14]  
+[17:55:14]  
+[17:55:14]  ======================================= 
+[17:55:14]  |                                     | 
+[17:55:14]  |        YSI version 1.06.0002        | 
+[17:55:14]  |        By Alex "Y_Less" Cole        | 
+[17:55:14]  |                                     | 
+[17:55:14]  ======================================= 
+[17:55:14]  
+[17:55:14]  
+[17:55:14]  
+[17:55:14] OnScriptInit 2
+[17:55:14] OnScriptInit 3
+[17:55:14] OnScriptInit 4
+[17:55:14] 
+----------------------------------
+[17:55:14]  SAHeaven RP Script Started...
+[17:55:14] ----------------------------------
+
+[17:55:14] Number of vehicle models: 0
+[17:55:14]  
+[17:55:14]  ========================================== 
+[17:55:14]  |                                        | 
+[17:55:14]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[17:55:14]  |            available from:             | 
+[17:55:14]  |                                        | 
+[17:55:14]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[17:55:14]  |                                        | 
+[17:55:14]  ========================================== 
+[17:55:14]  
+[17:55:35] Incoming connection: 127.0.0.1:56530
+[17:55:35] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[17:55:54] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[17:56:04] filterscripts = ""  (string)
+[17:56:04] 
+[17:56:04] Server Plugins
+[17:56:04] --------------
+[17:56:04]  Loaded 0 plugins.
+
+[17:56:04] 
+[17:56:04] Filterscripts
+[17:56:04] ---------------
+[17:56:04]   Loaded 0 filterscripts.
+
+[17:56:04] OnScriptInit 1
+[17:56:04]  
+[17:56:04]  
+[17:56:04]  
+[17:56:04]  ======================================= 
+[17:56:04]  |                                     | 
+[17:56:04]  |        YSI version 1.06.0002        | 
+[17:56:04]  |        By Alex "Y_Less" Cole        | 
+[17:56:04]  |                                     | 
+[17:56:04]  ======================================= 
+[17:56:04]  
+[17:56:04]  
+[17:56:04]  
+[17:56:04] OnScriptInit 2
+[17:56:04] OnScriptInit 3
+[17:56:04] OnScriptInit 4
+[17:56:04] 
+----------------------------------
+[17:56:04]  SAHeaven RP Script Started...
+[17:56:04] ----------------------------------
+
+[17:56:04] Number of vehicle models: 0
+[17:56:04]  
+[17:56:04]  ========================================== 
+[17:56:04]  |                                        | 
+[17:56:04]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[17:56:04]  |            available from:             | 
+[17:56:04]  |                                        | 
+[17:56:04]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[17:56:04]  |                                        | 
+[17:56:04]  ========================================== 
+[17:56:04]  
+[17:56:22] Incoming connection: 127.0.0.1:63599
+[17:56:23] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[17:56:26] [death] Armand_Uberwald died 255
+[17:56:32] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[18:05:29] filterscripts = ""  (string)
+[18:05:29] 
+[18:05:29] Server Plugins
+[18:05:29] --------------
+[18:05:29]  Loaded 0 plugins.
+
+[18:05:29] 
+[18:05:29] Filterscripts
+[18:05:29] ---------------
+[18:05:29]   Loaded 0 filterscripts.
+
+[18:05:29] OnScriptInit 1
+[18:05:29]  
+[18:05:29]  
+[18:05:29]  
+[18:05:29]  ======================================= 
+[18:05:29]  |                                     | 
+[18:05:29]  |        YSI version 1.06.0002        | 
+[18:05:29]  |        By Alex "Y_Less" Cole        | 
+[18:05:29]  |                                     | 
+[18:05:29]  ======================================= 
+[18:05:29]  
+[18:05:29]  
+[18:05:29]  
+[18:05:29] OnScriptInit 2
+[18:05:29] OnScriptInit 3
+[18:05:29] OnScriptInit 4
+[18:05:29] 
+----------------------------------
+[18:05:29]  SAHeaven RP Script Started...
+[18:05:29] ----------------------------------
+
+[18:05:29] Number of vehicle models: 0
+[18:05:29]  
+[18:05:29]  ========================================== 
+[18:05:29]  |                                        | 
+[18:05:29]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[18:05:29]  |            available from:             | 
+[18:05:29]  |                                        | 
+[18:05:29]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[18:05:29]  |                                        | 
+[18:05:29]  ========================================== 
+[18:05:29]  
+[18:05:48] Incoming connection: 127.0.0.1:53497
+[18:05:48] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[18:07:11] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[18:07:36] filterscripts = ""  (string)
+[18:07:36] 
+[18:07:36] Server Plugins
+[18:07:36] --------------
+[18:07:36]  Loaded 0 plugins.
+
+[18:07:36] 
+[18:07:36] Filterscripts
+[18:07:36] ---------------
+[18:07:36]   Loaded 0 filterscripts.
+
+[18:07:36] OnScriptInit 1
+[18:07:36]  
+[18:07:36]  
+[18:07:36]  
+[18:07:36]  ======================================= 
+[18:07:36]  |                                     | 
+[18:07:36]  |        YSI version 1.06.0002        | 
+[18:07:36]  |        By Alex "Y_Less" Cole        | 
+[18:07:36]  |                                     | 
+[18:07:36]  ======================================= 
+[18:07:36]  
+[18:07:36]  
+[18:07:36]  
+[18:07:36] OnScriptInit 2
+[18:07:36] OnScriptInit 3
+[18:07:36] OnScriptInit 4
+[18:07:36] 
+----------------------------------
+[18:07:36]  SAHeaven RP Script Started...
+[18:07:36] ----------------------------------
+
+[18:07:36] Number of vehicle models: 0
+[18:07:36]  
+[18:07:36]  ========================================== 
+[18:07:36]  |                                        | 
+[18:07:36]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[18:07:36]  |            available from:             | 
+[18:07:36]  |                                        | 
+[18:07:36]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[18:07:36]  |                                        | 
+[18:07:36]  ========================================== 
+[18:07:36]  
+[18:07:56] Incoming connection: 127.0.0.1:59052
+[18:07:56] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[18:12:46] [chat] [Armand_Uberwald]: test
+[18:14:21] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[18:14:32] filterscripts = ""  (string)
+[18:14:32] 
+[18:14:32] Server Plugins
+[18:14:32] --------------
+[18:14:32]  Loaded 0 plugins.
+
+[18:14:32] 
+[18:14:32] Filterscripts
+[18:14:32] ---------------
+[18:14:32]   Loaded 0 filterscripts.
+
+[18:14:32] OnScriptInit 1
+[18:14:32]  
+[18:14:32]  
+[18:14:32]  
+[18:14:32]  ======================================= 
+[18:14:32]  |                                     | 
+[18:14:32]  |        YSI version 1.06.0002        | 
+[18:14:32]  |        By Alex "Y_Less" Cole        | 
+[18:14:32]  |                                     | 
+[18:14:32]  ======================================= 
+[18:14:32]  
+[18:14:32]  
+[18:14:32]  
+[18:14:32] OnScriptInit 2
+[18:14:32] OnScriptInit 3
+[18:14:32] OnScriptInit 4
+[18:14:32] 
+----------------------------------
+[18:14:32]  SAHeaven RP Script Started...
+[18:14:32] ----------------------------------
+
+[18:14:32] Number of vehicle models: 0
+[18:14:32]  
+[18:14:32]  ========================================== 
+[18:14:32]  |                                        | 
+[18:14:32]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[18:14:32]  |            available from:             | 
+[18:14:32]  |                                        | 
+[18:14:32]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[18:14:32]  |                                        | 
+[18:14:32]  ========================================== 
+[18:14:32]  
+[18:14:53] Incoming connection: 127.0.0.1:62767
+[18:14:54] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[18:15:09] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[18:19:29] filterscripts = ""  (string)
+[18:19:29] 
+[18:19:29] Server Plugins
+[18:19:29] --------------
+[18:19:29]  Loaded 0 plugins.
+
+[18:19:29] 
+[18:19:29] Filterscripts
+[18:19:29] ---------------
+[18:19:29]   Loaded 0 filterscripts.
+
+[18:19:29] OnScriptInit 1
+[18:19:29]  
+[18:19:29]  
+[18:19:29]  
+[18:19:29]  ======================================= 
+[18:19:29]  |                                     | 
+[18:19:29]  |        YSI version 1.06.0002        | 
+[18:19:29]  |        By Alex "Y_Less" Cole        | 
+[18:19:29]  |                                     | 
+[18:19:29]  ======================================= 
+[18:19:29]  
+[18:19:29]  
+[18:19:29]  
+[18:19:29] OnScriptInit 2
+[18:19:29] OnScriptInit 3
+[18:19:29] OnScriptInit 4
+[18:19:29] 
+----------------------------------
+[18:19:29]  SAHeaven RP Script Started...
+[18:19:29] ----------------------------------
+
+[18:19:29] Number of vehicle models: 0
+[18:19:29]  
+[18:19:29]  ========================================== 
+[18:19:29]  |                                        | 
+[18:19:29]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[18:19:29]  |            available from:             | 
+[18:19:29]  |                                        | 
+[18:19:29]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[18:19:29]  |                                        | 
+[18:19:29]  ========================================== 
+[18:19:29]  
+[18:19:48] Incoming connection: 127.0.0.1:52657
+[18:19:49] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[18:20:36] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[18:21:03] filterscripts = ""  (string)
+[18:21:03] 
+[18:21:03] Server Plugins
+[18:21:03] --------------
+[18:21:03]  Loaded 0 plugins.
+
+[18:21:03] 
+[18:21:03] Filterscripts
+[18:21:03] ---------------
+[18:21:03]   Loaded 0 filterscripts.
+
+[18:21:03] OnScriptInit 1
+[18:21:03]  
+[18:21:03]  
+[18:21:03]  
+[18:21:03]  ======================================= 
+[18:21:03]  |                                     | 
+[18:21:03]  |        YSI version 1.06.0002        | 
+[18:21:03]  |        By Alex "Y_Less" Cole        | 
+[18:21:03]  |                                     | 
+[18:21:03]  ======================================= 
+[18:21:03]  
+[18:21:03]  
+[18:21:03]  
+[18:21:03] OnScriptInit 2
+[18:21:03] OnScriptInit 3
+[18:21:03] OnScriptInit 4
+[18:21:03] 
+----------------------------------
+[18:21:03]  SAHeaven RP Script Started...
+[18:21:03] ----------------------------------
+
+[18:21:03] Number of vehicle models: 0
+[18:21:03]  
+[18:21:03]  ========================================== 
+[18:21:03]  |                                        | 
+[18:21:03]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[18:21:03]  |            available from:             | 
+[18:21:03]  |                                        | 
+[18:21:03]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[18:21:03]  |                                        | 
+[18:21:03]  ========================================== 
+[18:21:03]  
+[18:21:45] Incoming connection: 127.0.0.1:60183
+[18:21:45] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[18:22:30] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[18:23:15] filterscripts = ""  (string)
+[18:23:15] 
+[18:23:15] Server Plugins
+[18:23:15] --------------
+[18:23:15]  Loaded 0 plugins.
+
+[18:23:15] 
+[18:23:15] Filterscripts
+[18:23:15] ---------------
+[18:23:15]   Loaded 0 filterscripts.
+
+[18:23:15] OnScriptInit 1
+[18:23:15]  
+[18:23:15]  
+[18:23:15]  
+[18:23:15]  ======================================= 
+[18:23:15]  |                                     | 
+[18:23:15]  |        YSI version 1.06.0002        | 
+[18:23:15]  |        By Alex "Y_Less" Cole        | 
+[18:23:15]  |                                     | 
+[18:23:15]  ======================================= 
+[18:23:15]  
+[18:23:15]  
+[18:23:15]  
+[18:23:15] OnScriptInit 2
+[18:23:15] OnScriptInit 3
+[18:23:15] OnScriptInit 4
+[18:23:15] 
+----------------------------------
+[18:23:15]  SAHeaven RP Script Started...
+[18:23:15] ----------------------------------
+
+[18:23:15] Number of vehicle models: 0
+[18:23:15]  
+[18:23:15]  ========================================== 
+[18:23:15]  |                                        | 
+[18:23:15]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[18:23:15]  |            available from:             | 
+[18:23:15]  |                                        | 
+[18:23:15]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[18:23:15]  |                                        | 
+[18:23:15]  ========================================== 
+[18:23:15]  
+[18:23:35] Incoming connection: 127.0.0.1:54528
+[18:23:35] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[18:23:48] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[18:52:12] filterscripts = ""  (string)
+[18:52:12] 
+[18:52:12] Server Plugins
+[18:52:12] --------------
+[18:52:12]  Loaded 0 plugins.
+
+[18:52:13] 
+[18:52:13] Filterscripts
+[18:52:13] ---------------
+[18:52:13]   Loaded 0 filterscripts.
+
+[18:52:13] OnScriptInit 1
+[18:52:13]  
+[18:52:13]  
+[18:52:13]  
+[18:52:13]  ======================================= 
+[18:52:13]  |                                     | 
+[18:52:13]  |        YSI version 1.06.0002        | 
+[18:52:13]  |        By Alex "Y_Less" Cole        | 
+[18:52:13]  |                                     | 
+[18:52:13]  ======================================= 
+[18:52:13]  
+[18:52:13]  
+[18:52:13]  
+[18:52:13] OnScriptInit 2
+[18:52:13] OnScriptInit 3
+[18:52:13] OnScriptInit 4
+[18:52:13] 
+----------------------------------
+[18:52:13]  SAHeaven RP Script Started...
+[18:52:13] ----------------------------------
+
+[18:52:13] Number of vehicle models: 0
+[18:52:13]  
+[18:52:13]  ========================================== 
+[18:52:13]  |                                        | 
+[18:52:13]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[18:52:13]  |            available from:             | 
+[18:52:13]  |                                        | 
+[18:52:13]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[18:52:13]  |                                        | 
+[18:52:13]  ========================================== 
+[18:52:13]  
+[18:52:32] Incoming connection: 127.0.0.1:58036
+[18:52:33] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[18:52:43] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[18:54:03] filterscripts = ""  (string)
+[18:54:03] 
+[18:54:03] Server Plugins
+[18:54:03] --------------
+[18:54:03]  Loaded 0 plugins.
+
+[18:54:03] 
+[18:54:03] Filterscripts
+[18:54:03] ---------------
+[18:54:03]   Loaded 0 filterscripts.
+
+[18:54:03] OnScriptInit 1
+[18:54:03]  
+[18:54:03]  
+[18:54:03]  
+[18:54:03]  ======================================= 
+[18:54:03]  |                                     | 
+[18:54:03]  |        YSI version 1.06.0002        | 
+[18:54:03]  |        By Alex "Y_Less" Cole        | 
+[18:54:03]  |                                     | 
+[18:54:03]  ======================================= 
+[18:54:03]  
+[18:54:03]  
+[18:54:03]  
+[18:54:03] OnScriptInit 2
+[18:54:03] OnScriptInit 3
+[18:54:03] OnScriptInit 4
+[18:54:03] 
+----------------------------------
+[18:54:03]  SAHeaven RP Script Started...
+[18:54:03] ----------------------------------
+
+[18:54:03] Number of vehicle models: 0
+[18:54:03]  
+[18:54:03]  ========================================== 
+[18:54:03]  |                                        | 
+[18:54:03]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[18:54:03]  |            available from:             | 
+[18:54:03]  |                                        | 
+[18:54:03]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[18:54:03]  |                                        | 
+[18:54:03]  ========================================== 
+[18:54:03]  
+[18:54:23] Incoming connection: 127.0.0.1:56285
+[18:54:23] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[18:54:40] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[19:12:14] filterscripts = ""  (string)
+[19:12:14] 
+[19:12:14] Server Plugins
+[19:12:14] --------------
+[19:12:14]  Loaded 0 plugins.
+
+[19:12:14] 
+[19:12:14] Filterscripts
+[19:12:14] ---------------
+[19:12:14]   Loaded 0 filterscripts.
+
+[19:12:14] OnScriptInit 1
+[19:12:14]  
+[19:12:14]  
+[19:12:14]  
+[19:12:14]  ======================================= 
+[19:12:14]  |                                     | 
+[19:12:14]  |        YSI version 1.06.0002        | 
+[19:12:14]  |        By Alex "Y_Less" Cole        | 
+[19:12:14]  |                                     | 
+[19:12:14]  ======================================= 
+[19:12:14]  
+[19:12:14]  
+[19:12:14]  
+[19:12:14] OnScriptInit 2
+[19:12:14] OnScriptInit 3
+[19:12:14] OnScriptInit 4
+[19:12:14] 
+----------------------------------
+[19:12:14]  SAHeaven RP Script Started...
+[19:12:14] ----------------------------------
+
+[19:12:14] Number of vehicle models: 0
+[19:12:14]  
+[19:12:14]  ========================================== 
+[19:12:14]  |                                        | 
+[19:12:14]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[19:12:14]  |            available from:             | 
+[19:12:14]  |                                        | 
+[19:12:14]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[19:12:14]  |                                        | 
+[19:12:14]  ========================================== 
+[19:12:14]  
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[19:12:24] filterscripts = ""  (string)
+[19:12:24] 
+[19:12:24] Server Plugins
+[19:12:24] --------------
+[19:12:24]  Loaded 0 plugins.
+
+[19:12:24] 
+[19:12:24] Filterscripts
+[19:12:24] ---------------
+[19:12:24]   Loaded 0 filterscripts.
+
+[19:12:24] OnScriptInit 1
+[19:12:24]  
+[19:12:24]  
+[19:12:24]  
+[19:12:24]  ======================================= 
+[19:12:24]  |                                     | 
+[19:12:24]  |        YSI version 1.06.0002        | 
+[19:12:24]  |        By Alex "Y_Less" Cole        | 
+[19:12:24]  |                                     | 
+[19:12:24]  ======================================= 
+[19:12:24]  
+[19:12:24]  
+[19:12:24]  
+[19:12:24] OnScriptInit 2
+[19:12:24] OnScriptInit 3
+[19:12:24] OnScriptInit 4
+[19:12:24] 
+----------------------------------
+[19:12:24]  SAHeaven RP Script Started...
+[19:12:24] ----------------------------------
+
+[19:12:24] Number of vehicle models: 0
+[19:12:24]  
+[19:12:24]  ========================================== 
+[19:12:24]  |                                        | 
+[19:12:24]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[19:12:24]  |            available from:             | 
+[19:12:24]  |                                        | 
+[19:12:24]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[19:12:24]  |                                        | 
+[19:12:24]  ========================================== 
+[19:12:24]  
+[19:12:45] Incoming connection: 127.0.0.1:64782
+[19:12:45] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[19:12:55] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[19:14:19] filterscripts = ""  (string)
+[19:14:19] 
+[19:14:19] Server Plugins
+[19:14:19] --------------
+[19:14:19]  Loaded 0 plugins.
+
+[19:14:19] 
+[19:14:19] Filterscripts
+[19:14:19] ---------------
+[19:14:19]   Loaded 0 filterscripts.
+
+[19:14:19] OnScriptInit 1
+[19:14:19]  
+[19:14:19]  
+[19:14:19]  
+[19:14:19]  ======================================= 
+[19:14:19]  |                                     | 
+[19:14:19]  |        YSI version 1.06.0002        | 
+[19:14:19]  |        By Alex "Y_Less" Cole        | 
+[19:14:19]  |                                     | 
+[19:14:19]  ======================================= 
+[19:14:19]  
+[19:14:19]  
+[19:14:19]  
+[19:14:19] OnScriptInit 2
+[19:14:19] OnScriptInit 3
+[19:14:19] OnScriptInit 4
+[19:14:19] 
+----------------------------------
+[19:14:19]  SAHeaven RP Script Started...
+[19:14:19] ----------------------------------
+
+[19:14:19] Number of vehicle models: 0
+[19:14:19]  
+[19:14:19]  ========================================== 
+[19:14:19]  |                                        | 
+[19:14:19]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[19:14:19]  |            available from:             | 
+[19:14:19]  |                                        | 
+[19:14:19]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[19:14:19]  |                                        | 
+[19:14:19]  ========================================== 
+[19:14:19]  
+[19:14:38] Incoming connection: 127.0.0.1:64379
+[19:14:38] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[19:15:07] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[19:31:43] filterscripts = ""  (string)
+[19:31:43] 
+[19:31:43] Server Plugins
+[19:31:43] --------------
+[19:31:43]  Loaded 0 plugins.
+
+[19:31:43] 
+[19:31:43] Filterscripts
+[19:31:43] ---------------
+[19:31:43]   Loaded 0 filterscripts.
+
+[19:31:43] OnScriptInit 1
+[19:31:43]  
+[19:31:43]  
+[19:31:43]  
+[19:31:43]  ======================================= 
+[19:31:43]  |                                     | 
+[19:31:43]  |        YSI version 1.06.0002        | 
+[19:31:43]  |        By Alex "Y_Less" Cole        | 
+[19:31:43]  |                                     | 
+[19:31:43]  ======================================= 
+[19:31:43]  
+[19:31:43]  
+[19:31:43]  
+[19:31:43] OnScriptInit 2
+[19:31:43] OnScriptInit 3
+[19:31:43] OnScriptInit 4
+[19:31:43] 
+----------------------------------
+[19:31:43]  SAHeaven RP Script Started...
+[19:31:43] ----------------------------------
+
+[19:31:43] Number of vehicle models: 0
+[19:31:44]  
+[19:31:44]  ========================================== 
+[19:31:44]  |                                        | 
+[19:31:44]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[19:31:44]  |            available from:             | 
+[19:31:44]  |                                        | 
+[19:31:44]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[19:31:44]  |                                        | 
+[19:31:44]  ========================================== 
+[19:31:44]  
+[19:32:06] Incoming connection: 127.0.0.1:64392
+[19:32:07] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[19:32:42] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[19:34:14] filterscripts = ""  (string)
+[19:34:14] 
+[19:34:14] Server Plugins
+[19:34:14] --------------
+[19:34:14]  Loaded 0 plugins.
+
+[19:34:14] 
+[19:34:14] Filterscripts
+[19:34:14] ---------------
+[19:34:14]   Loaded 0 filterscripts.
+
+[19:34:14] OnScriptInit 1
+[19:34:14]  
+[19:34:14]  
+[19:34:14]  
+[19:34:14]  ======================================= 
+[19:34:14]  |                                     | 
+[19:34:14]  |        YSI version 1.06.0002        | 
+[19:34:14]  |        By Alex "Y_Less" Cole        | 
+[19:34:14]  |                                     | 
+[19:34:14]  ======================================= 
+[19:34:14]  
+[19:34:14]  
+[19:34:14]  
+[19:34:14] OnScriptInit 2
+[19:34:14] OnScriptInit 3
+[19:34:14] OnScriptInit 4
+[19:34:14] 
+----------------------------------
+[19:34:14]  SAHeaven RP Script Started...
+[19:34:14] ----------------------------------
+
+[19:34:14] Number of vehicle models: 0
+[19:34:14]  
+[19:34:14]  ========================================== 
+[19:34:14]  |                                        | 
+[19:34:14]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[19:34:14]  |            available from:             | 
+[19:34:14]  |                                        | 
+[19:34:14]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[19:34:14]  |                                        | 
+[19:34:14]  ========================================== 
+[19:34:14]  
+[19:34:37] Incoming connection: 127.0.0.1:58582
+[19:34:37] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[19:34:44] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[19:35:14] filterscripts = ""  (string)
+[19:35:14] 
+[19:35:14] Server Plugins
+[19:35:14] --------------
+[19:35:14]  Loaded 0 plugins.
+
+[19:35:14] 
+[19:35:14] Filterscripts
+[19:35:14] ---------------
+[19:35:14]   Loaded 0 filterscripts.
+
+[19:35:14] OnScriptInit 1
+[19:35:14]  
+[19:35:14]  
+[19:35:14]  
+[19:35:14]  ======================================= 
+[19:35:14]  |                                     | 
+[19:35:14]  |        YSI version 1.06.0002        | 
+[19:35:14]  |        By Alex "Y_Less" Cole        | 
+[19:35:14]  |                                     | 
+[19:35:14]  ======================================= 
+[19:35:14]  
+[19:35:14]  
+[19:35:14]  
+[19:35:14] OnScriptInit 2
+[19:35:14] OnScriptInit 3
+[19:35:14] OnScriptInit 4
+[19:35:14] 
+----------------------------------
+[19:35:14]  SAHeaven RP Script Started...
+[19:35:14] ----------------------------------
+
+[19:35:14] Number of vehicle models: 0
+[19:35:14]  
+[19:35:14]  ========================================== 
+[19:35:14]  |                                        | 
+[19:35:14]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[19:35:14]  |            available from:             | 
+[19:35:14]  |                                        | 
+[19:35:14]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[19:35:14]  |                                        | 
+[19:35:14]  ========================================== 
+[19:35:14]  
+[19:35:34] Incoming connection: 127.0.0.1:56794
+[19:35:34] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[19:35:41] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[19:38:48] filterscripts = ""  (string)
+[19:38:48] 
+[19:38:48] Server Plugins
+[19:38:48] --------------
+[19:38:48]  Loaded 0 plugins.
+
+[19:38:48] 
+[19:38:48] Filterscripts
+[19:38:48] ---------------
+[19:38:48]   Loaded 0 filterscripts.
+
+[19:38:48] OnScriptInit 1
+[19:38:48]  
+[19:38:48]  
+[19:38:48]  
+[19:38:48]  ======================================= 
+[19:38:48]  |                                     | 
+[19:38:48]  |        YSI version 1.06.0002        | 
+[19:38:48]  |        By Alex "Y_Less" Cole        | 
+[19:38:48]  |                                     | 
+[19:38:48]  ======================================= 
+[19:38:48]  
+[19:38:48]  
+[19:38:48]  
+[19:38:48] OnScriptInit 2
+[19:38:48] OnScriptInit 3
+[19:38:48] OnScriptInit 4
+[19:38:48] 
+----------------------------------
+[19:38:48]  SAHeaven RP Script Started...
+[19:38:48] ----------------------------------
+
+[19:38:48] Number of vehicle models: 0
+[19:38:48]  
+[19:38:48]  ========================================== 
+[19:38:48]  |                                        | 
+[19:38:48]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[19:38:48]  |            available from:             | 
+[19:38:48]  |                                        | 
+[19:38:48]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[19:38:48]  |                                        | 
+[19:38:48]  ========================================== 
+[19:38:48]  
+[19:39:07] Incoming connection: 127.0.0.1:54420
+[19:39:07] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[19:39:20] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[19:41:00] filterscripts = ""  (string)
+[19:41:00] 
+[19:41:00] Server Plugins
+[19:41:00] --------------
+[19:41:00]  Loaded 0 plugins.
+
+[19:41:00] 
+[19:41:00] Filterscripts
+[19:41:00] ---------------
+[19:41:00]   Loaded 0 filterscripts.
+
+[19:41:00] OnScriptInit 1
+[19:41:00]  
+[19:41:00]  
+[19:41:00]  
+[19:41:00]  ======================================= 
+[19:41:00]  |                                     | 
+[19:41:00]  |        YSI version 1.06.0002        | 
+[19:41:00]  |        By Alex "Y_Less" Cole        | 
+[19:41:00]  |                                     | 
+[19:41:00]  ======================================= 
+[19:41:00]  
+[19:41:00]  
+[19:41:00]  
+[19:41:00] OnScriptInit 2
+[19:41:00] OnScriptInit 3
+[19:41:00] OnScriptInit 4
+[19:41:00] 
+----------------------------------
+[19:41:00]  SAHeaven RP Script Started...
+[19:41:00] ----------------------------------
+
+[19:41:00] Number of vehicle models: 0
+[19:41:00]  
+[19:41:00]  ========================================== 
+[19:41:00]  |                                        | 
+[19:41:00]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[19:41:00]  |            available from:             | 
+[19:41:00]  |                                        | 
+[19:41:00]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[19:41:00]  |                                        | 
+[19:41:00]  ========================================== 
+[19:41:00]  
+[19:41:21] Incoming connection: 127.0.0.1:49192
+[19:41:21] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[19:41:38] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[19:46:10] filterscripts = ""  (string)
+[19:46:10] 
+[19:46:10] Server Plugins
+[19:46:10] --------------
+[19:46:10]  Loaded 0 plugins.
+
+[19:46:11] 
+[19:46:11] Filterscripts
+[19:46:11] ---------------
+[19:46:11]   Loaded 0 filterscripts.
+
+[19:46:11] OnScriptInit 1
+[19:46:11]  
+[19:46:11]  
+[19:46:11]  
+[19:46:11]  ======================================= 
+[19:46:11]  |                                     | 
+[19:46:11]  |        YSI version 1.06.0002        | 
+[19:46:11]  |        By Alex "Y_Less" Cole        | 
+[19:46:11]  |                                     | 
+[19:46:11]  ======================================= 
+[19:46:11]  
+[19:46:11]  
+[19:46:11]  
+[19:46:11] OnScriptInit 2
+[19:46:11] OnScriptInit 3
+[19:46:11] OnScriptInit 4
+[19:46:11] 
+----------------------------------
+[19:46:11]  SAHeaven RP Script Started...
+[19:46:11] ----------------------------------
+
+[19:46:11] Number of vehicle models: 0
+[19:46:11]  
+[19:46:11]  ========================================== 
+[19:46:11]  |                                        | 
+[19:46:11]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[19:46:11]  |            available from:             | 
+[19:46:11]  |                                        | 
+[19:46:11]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[19:46:11]  |                                        | 
+[19:46:11]  ========================================== 
+[19:46:11]  
+[19:46:31] Incoming connection: 127.0.0.1:62494
+[19:46:31] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[19:46:47] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[19:47:11] filterscripts = ""  (string)
+[19:47:11] 
+[19:47:11] Server Plugins
+[19:47:11] --------------
+[19:47:11]  Loaded 0 plugins.
+
+[19:47:11] 
+[19:47:11] Filterscripts
+[19:47:11] ---------------
+[19:47:11]   Loaded 0 filterscripts.
+
+[19:47:11] OnScriptInit 1
+[19:47:11]  
+[19:47:11]  
+[19:47:11]  
+[19:47:11]  ======================================= 
+[19:47:11]  |                                     | 
+[19:47:11]  |        YSI version 1.06.0002        | 
+[19:47:11]  |        By Alex "Y_Less" Cole        | 
+[19:47:11]  |                                     | 
+[19:47:11]  ======================================= 
+[19:47:11]  
+[19:47:11]  
+[19:47:11]  
+[19:47:11] OnScriptInit 2
+[19:47:11] OnScriptInit 3
+[19:47:11] OnScriptInit 4
+[19:47:11] 
+----------------------------------
+[19:47:11]  SAHeaven RP Script Started...
+[19:47:11] ----------------------------------
+
+[19:47:11] Number of vehicle models: 0
+[19:47:11]  
+[19:47:11]  ========================================== 
+[19:47:11]  |                                        | 
+[19:47:11]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[19:47:11]  |            available from:             | 
+[19:47:11]  |                                        | 
+[19:47:11]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[19:47:11]  |                                        | 
+[19:47:11]  ========================================== 
+[19:47:11]  
+[19:47:31] Incoming connection: 127.0.0.1:50188
+[19:47:31] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[19:48:03] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[19:48:11] filterscripts = ""  (string)
+[19:48:11] 
+[19:48:11] Server Plugins
+[19:48:11] --------------
+[19:48:11]  Loaded 0 plugins.
+
+[19:48:11] 
+[19:48:11] Filterscripts
+[19:48:11] ---------------
+[19:48:11]   Loaded 0 filterscripts.
+
+[19:48:11] OnScriptInit 1
+[19:48:11]  
+[19:48:11]  
+[19:48:11]  
+[19:48:11]  ======================================= 
+[19:48:11]  |                                     | 
+[19:48:11]  |        YSI version 1.06.0002        | 
+[19:48:11]  |        By Alex "Y_Less" Cole        | 
+[19:48:11]  |                                     | 
+[19:48:11]  ======================================= 
+[19:48:11]  
+[19:48:11]  
+[19:48:11]  
+[19:48:11] OnScriptInit 2
+[19:48:11] OnScriptInit 3
+[19:48:11] OnScriptInit 4
+[19:48:11] 
+----------------------------------
+[19:48:11]  SAHeaven RP Script Started...
+[19:48:11] ----------------------------------
+
+[19:48:11] Number of vehicle models: 0
+[19:48:12]  
+[19:48:12]  ========================================== 
+[19:48:12]  |                                        | 
+[19:48:12]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[19:48:12]  |            available from:             | 
+[19:48:12]  |                                        | 
+[19:48:12]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[19:48:12]  |                                        | 
+[19:48:12]  ========================================== 
+[19:48:12]  
+[19:48:32] Incoming connection: 127.0.0.1:61488
+[19:48:32] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[19:49:11] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[20:30:36] filterscripts = ""  (string)
+[20:30:36] 
+[20:30:36] Server Plugins
+[20:30:36] --------------
+[20:30:36]  Loaded 0 plugins.
+
+[20:30:36] 
+[20:30:36] Filterscripts
+[20:30:36] ---------------
+[20:30:36]   Loaded 0 filterscripts.
+
+[20:30:36] OnScriptInit 1
+[20:30:36]  
+[20:30:36]  
+[20:30:36]  
+[20:30:36]  ======================================= 
+[20:30:36]  |                                     | 
+[20:30:36]  |        YSI version 1.06.0002        | 
+[20:30:36]  |        By Alex "Y_Less" Cole        | 
+[20:30:36]  |                                     | 
+[20:30:36]  ======================================= 
+[20:30:36]  
+[20:30:36]  
+[20:30:36]  
+[20:30:36] OnScriptInit 2
+[20:30:36] OnScriptInit 3
+[20:30:36] OnScriptInit 4
+[20:30:36] 
+----------------------------------
+[20:30:36]  SAHeaven RP Script Started...
+[20:30:36] ----------------------------------
+
+[20:30:36] Number of vehicle models: 0
+[20:30:37]  
+[20:30:37]  ========================================== 
+[20:30:37]  |                                        | 
+[20:30:37]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[20:30:37]  |            available from:             | 
+[20:30:37]  |                                        | 
+[20:30:37]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[20:30:37]  |                                        | 
+[20:30:37]  ========================================== 
+[20:30:37]  
+[20:31:53] Incoming connection: 127.0.0.1:59628
+[20:31:53] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[20:32:10] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[20:32:19] filterscripts = ""  (string)
+[20:32:19] 
+[20:32:19] Server Plugins
+[20:32:19] --------------
+[20:32:19]  Loaded 0 plugins.
+
+[20:32:19] 
+[20:32:19] Filterscripts
+[20:32:19] ---------------
+[20:32:19]   Loaded 0 filterscripts.
+
+[20:32:19] OnScriptInit 1
+[20:32:19]  
+[20:32:19]  
+[20:32:19]  
+[20:32:19]  ======================================= 
+[20:32:19]  |                                     | 
+[20:32:19]  |        YSI version 1.06.0002        | 
+[20:32:19]  |        By Alex "Y_Less" Cole        | 
+[20:32:19]  |                                     | 
+[20:32:19]  ======================================= 
+[20:32:19]  
+[20:32:19]  
+[20:32:19]  
+[20:32:19] OnScriptInit 2
+[20:32:19] OnScriptInit 3
+[20:32:19] OnScriptInit 4
+[20:32:19] 
+----------------------------------
+[20:32:19]  SAHeaven RP Script Started...
+[20:32:19] ----------------------------------
+
+[20:32:19] Number of vehicle models: 0
+[20:32:19]  
+[20:32:19]  ========================================== 
+[20:32:19]  |                                        | 
+[20:32:19]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[20:32:19]  |            available from:             | 
+[20:32:19]  |                                        | 
+[20:32:19]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[20:32:19]  |                                        | 
+[20:32:19]  ========================================== 
+[20:32:19]  
+[20:32:38] Incoming connection: 127.0.0.1:62932
+[20:32:38] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[20:33:05] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[20:34:01] filterscripts = ""  (string)
+[20:34:01] 
+[20:34:01] Server Plugins
+[20:34:01] --------------
+[20:34:01]  Loaded 0 plugins.
+
+[20:34:01] 
+[20:34:01] Filterscripts
+[20:34:01] ---------------
+[20:34:01]   Loaded 0 filterscripts.
+
+[20:34:01] OnScriptInit 1
+[20:34:01]  
+[20:34:01]  
+[20:34:01]  
+[20:34:01]  ======================================= 
+[20:34:01]  |                                     | 
+[20:34:01]  |        YSI version 1.06.0002        | 
+[20:34:01]  |        By Alex "Y_Less" Cole        | 
+[20:34:01]  |                                     | 
+[20:34:01]  ======================================= 
+[20:34:01]  
+[20:34:01]  
+[20:34:01]  
+[20:34:01] OnScriptInit 2
+[20:34:01] OnScriptInit 3
+[20:34:01] OnScriptInit 4
+[20:34:01] 
+----------------------------------
+[20:34:01]  SAHeaven RP Script Started...
+[20:34:01] ----------------------------------
+
+[20:34:01] Number of vehicle models: 0
+[20:34:01]  
+[20:34:01]  ========================================== 
+[20:34:01]  |                                        | 
+[20:34:01]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[20:34:01]  |            available from:             | 
+[20:34:01]  |                                        | 
+[20:34:01]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[20:34:01]  |                                        | 
+[20:34:01]  ========================================== 
+[20:34:01]  
+[20:34:20] Incoming connection: 127.0.0.1:59576
+[20:34:20] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[20:34:32] [part] Armand_Uberwald has left the server (0:1)
+[20:35:27] Incoming connection: 127.0.0.1:55983
+[20:35:28] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[20:35:36] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[20:40:09] filterscripts = ""  (string)
+[20:40:09] 
+[20:40:09] Server Plugins
+[20:40:09] --------------
+[20:40:09]  Loaded 0 plugins.
+
+[20:40:09] 
+[20:40:09] Filterscripts
+[20:40:09] ---------------
+[20:40:09]   Loaded 0 filterscripts.
+
+[20:40:09] OnScriptInit 1
+[20:40:09]  
+[20:40:09]  
+[20:40:09]  
+[20:40:09]  ======================================= 
+[20:40:09]  |                                     | 
+[20:40:09]  |        YSI version 1.06.0002        | 
+[20:40:09]  |        By Alex "Y_Less" Cole        | 
+[20:40:09]  |                                     | 
+[20:40:09]  ======================================= 
+[20:40:09]  
+[20:40:09]  
+[20:40:09]  
+[20:40:09] OnScriptInit 2
+[20:40:09] OnScriptInit 3
+[20:40:09] OnScriptInit 4
+[20:40:09] 
+----------------------------------
+[20:40:09]  SAHeaven RP Script Started...
+[20:40:09] ----------------------------------
+
+[20:40:09] Number of vehicle models: 0
+[20:40:10]  
+[20:40:10]  ========================================== 
+[20:40:10]  |                                        | 
+[20:40:10]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[20:40:10]  |            available from:             | 
+[20:40:10]  |                                        | 
+[20:40:10]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[20:40:10]  |                                        | 
+[20:40:10]  ========================================== 
+[20:40:10]  
+[20:41:34] Incoming connection: 127.0.0.1:65050
+[20:41:34] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[20:41:52] [part] Armand_Uberwald has left the server (0:1)
+[20:42:20] Incoming connection: 127.0.0.1:65051
+[20:42:20] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[20:42:36] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[20:46:09] filterscripts = ""  (string)
+[20:46:09] 
+[20:46:09] Server Plugins
+[20:46:09] --------------
+[20:46:09]  Loaded 0 plugins.
+
+[20:46:09] 
+[20:46:09] Filterscripts
+[20:46:09] ---------------
+[20:46:09]   Loaded 0 filterscripts.
+
+[20:46:09] OnScriptInit 1
+[20:46:09]  
+[20:46:09]  
+[20:46:09]  
+[20:46:09]  ======================================= 
+[20:46:09]  |                                     | 
+[20:46:09]  |        YSI version 1.06.0002        | 
+[20:46:09]  |        By Alex "Y_Less" Cole        | 
+[20:46:09]  |                                     | 
+[20:46:09]  ======================================= 
+[20:46:09]  
+[20:46:09]  
+[20:46:09]  
+[20:46:09] OnScriptInit 2
+[20:46:09] OnScriptInit 3
+[20:46:09] OnScriptInit 4
+[20:46:09] 
+----------------------------------
+[20:46:09]  SAHeaven RP Script Started...
+[20:46:09] ----------------------------------
+
+[20:46:09] Number of vehicle models: 0
+[20:46:09]  
+[20:46:09]  ========================================== 
+[20:46:09]  |                                        | 
+[20:46:09]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[20:46:09]  |            available from:             | 
+[20:46:09]  |                                        | 
+[20:46:09]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[20:46:09]  |                                        | 
+[20:46:09]  ========================================== 
+[20:46:09]  
+[20:47:22] Incoming connection: 127.0.0.1:55429
+[20:47:23] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[20:47:53] [part] Armand_Uberwald has left the server (0:1)
+[20:48:24] Incoming connection: 127.0.0.1:55430
+[20:48:24] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[20:48:40] [part] Armand_Uberwald has left the server (0:1)
+[20:49:05] Incoming connection: 127.0.0.1:56558
+[20:49:05] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[20:49:27] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[20:59:39] filterscripts = ""  (string)
+[20:59:39] 
+[20:59:39] Server Plugins
+[20:59:39] --------------
+[20:59:39]  Loaded 0 plugins.
+
+[20:59:39] 
+[20:59:39] Filterscripts
+[20:59:39] ---------------
+[20:59:39]   Loaded 0 filterscripts.
+
+[20:59:39] OnScriptInit 1
+[20:59:39]  
+[20:59:39]  
+[20:59:39]  
+[20:59:39]  ======================================= 
+[20:59:39]  |                                     | 
+[20:59:39]  |        YSI version 1.06.0002        | 
+[20:59:39]  |        By Alex "Y_Less" Cole        | 
+[20:59:39]  |                                     | 
+[20:59:39]  ======================================= 
+[20:59:39]  
+[20:59:39]  
+[20:59:39]  
+[20:59:39] OnScriptInit 2
+[20:59:39] OnScriptInit 3
+[20:59:39] OnScriptInit 4
+[20:59:39] 
+----------------------------------
+[20:59:39]  SAHeaven RP Script Started...
+[20:59:39] ----------------------------------
+
+[20:59:39] Number of vehicle models: 0
+[20:59:39]  
+[20:59:39]  ========================================== 
+[20:59:39]  |                                        | 
+[20:59:39]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[20:59:39]  |            available from:             | 
+[20:59:39]  |                                        | 
+[20:59:39]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[20:59:39]  |                                        | 
+[20:59:39]  ========================================== 
+[20:59:39]  
+[20:59:59] Incoming connection: 127.0.0.1:52602
+[21:00:00] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[21:00:20] [part] Armand_Uberwald has left the server (0:1)
+[21:00:44] Incoming connection: 127.0.0.1:64378
+[21:00:44] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[21:01:08] [part] Armand_Uberwald has left the server (0:1)
+[21:01:31] Incoming connection: 127.0.0.1:62283
+[21:01:32] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[21:01:36] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[21:12:20] filterscripts = ""  (string)
+[21:12:20] 
+[21:12:20] Server Plugins
+[21:12:20] --------------
+[21:12:20]  Loaded 0 plugins.
+
+[21:12:20] 
+[21:12:20] Filterscripts
+[21:12:20] ---------------
+[21:12:20]   Loaded 0 filterscripts.
+
+[21:12:20] OnScriptInit 1
+[21:12:20]  
+[21:12:20]  
+[21:12:20]  
+[21:12:20]  ======================================= 
+[21:12:20]  |                                     | 
+[21:12:20]  |        YSI version 1.06.0002        | 
+[21:12:20]  |        By Alex "Y_Less" Cole        | 
+[21:12:20]  |                                     | 
+[21:12:20]  ======================================= 
+[21:12:20]  
+[21:12:20]  
+[21:12:20]  
+[21:12:20] OnScriptInit 2
+[21:12:20] OnScriptInit 3
+[21:12:20] OnScriptInit 4
+[21:12:20] 
+----------------------------------
+[21:12:20]  SAHeaven RP Script Started...
+[21:12:20] ----------------------------------
+
+[21:12:20] Number of vehicle models: 0
+[21:12:20]  
+[21:12:20]  ========================================== 
+[21:12:20]  |                                        | 
+[21:12:20]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[21:12:20]  |            available from:             | 
+[21:12:20]  |                                        | 
+[21:12:20]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[21:12:20]  |                                        | 
+[21:12:20]  ========================================== 
+[21:12:20]  
+[21:12:55] Incoming connection: 127.0.0.1:57395
+[21:12:56] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[21:12:59] [death] Armand_Uberwald died 255
+[21:13:03] [death] Armand_Uberwald died 255
+[21:13:10] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[21:18:01] filterscripts = ""  (string)
+[21:18:01] 
+[21:18:01] Server Plugins
+[21:18:01] --------------
+[21:18:01]  Loaded 0 plugins.
+
+[21:18:02] 
+[21:18:02] Filterscripts
+[21:18:02] ---------------
+[21:18:02]   Loaded 0 filterscripts.
+
+[21:18:02] OnScriptInit 1
+[21:18:02]  
+[21:18:02]  
+[21:18:02]  
+[21:18:02]  ======================================= 
+[21:18:02]  |                                     | 
+[21:18:02]  |        YSI version 1.06.0002        | 
+[21:18:02]  |        By Alex "Y_Less" Cole        | 
+[21:18:02]  |                                     | 
+[21:18:02]  ======================================= 
+[21:18:02]  
+[21:18:02]  
+[21:18:02]  
+[21:18:02] OnScriptInit 2
+[21:18:02] OnScriptInit 3
+[21:18:02] OnScriptInit 4
+[21:18:02] 
+----------------------------------
+[21:18:02]  SAHeaven RP Script Started...
+[21:18:02] ----------------------------------
+
+[21:18:02] Number of vehicle models: 0
+[21:18:02]  
+[21:18:02]  ========================================== 
+[21:18:02]  |                                        | 
+[21:18:02]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[21:18:02]  |            available from:             | 
+[21:18:02]  |                                        | 
+[21:18:02]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[21:18:02]  |                                        | 
+[21:18:02]  ========================================== 
+[21:18:02]  
+[21:18:29] Incoming connection: 127.0.0.1:53000
+[21:18:30] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[21:18:33] [death] Armand_Uberwald died 255
+[21:18:53] [death] Armand_Uberwald died 255
+[21:18:54] [death] Armand_Uberwald died 255
+[21:18:57] [part] Armand_Uberwald has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[21:22:48] filterscripts = ""  (string)
+[21:22:48] 
+[21:22:48] Server Plugins
+[21:22:48] --------------
+[21:22:48]  Loaded 0 plugins.
+
+[21:22:48] 
+[21:22:48] Filterscripts
+[21:22:48] ---------------
+[21:22:48]   Loaded 0 filterscripts.
+
+[21:22:48] OnScriptInit 1
+[21:22:48]  
+[21:22:48]  
+[21:22:48]  
+[21:22:48]  ======================================= 
+[21:22:48]  |                                     | 
+[21:22:48]  |        YSI version 1.06.0002        | 
+[21:22:48]  |        By Alex "Y_Less" Cole        | 
+[21:22:48]  |                                     | 
+[21:22:48]  ======================================= 
+[21:22:48]  
+[21:22:48]  
+[21:22:48]  
+[21:22:48] OnScriptInit 2
+[21:22:48] OnScriptInit 3
+[21:22:48] OnScriptInit 4
+[21:22:48] 
+----------------------------------
+[21:22:48]  SAHeaven RP Script Started...
+[21:22:48] ----------------------------------
+
+[21:22:48] Number of vehicle models: 0
+[21:22:48]  
+[21:22:48]  ========================================== 
+[21:22:48]  |                                        | 
+[21:22:48]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[21:22:48]  |            available from:             | 
+[21:22:48]  |                                        | 
+[21:22:48]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[21:22:48]  |                                        | 
+[21:22:48]  ========================================== 
+[21:22:48]  
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e-R2, (C)2005-2012 SA-MP Team
+
+[21:23:35] filterscripts = ""  (string)
+[21:23:35] 
+[21:23:35] Server Plugins
+[21:23:35] --------------
+[21:23:35]  Loaded 0 plugins.
+
+[21:23:35] 
+[21:23:35] Filterscripts
+[21:23:35] ---------------
+[21:23:35]   Loaded 0 filterscripts.
+
+[21:23:35] OnScriptInit 1
+[21:23:35]  
+[21:23:35]  
+[21:23:35]  
+[21:23:35]  ======================================= 
+[21:23:35]  |                                     | 
+[21:23:35]  |        YSI version 1.06.0002        | 
+[21:23:35]  |        By Alex "Y_Less" Cole        | 
+[21:23:35]  |                                     | 
+[21:23:35]  ======================================= 
+[21:23:35]  
+[21:23:35]  
+[21:23:35]  
+[21:23:35] OnScriptInit 2
+[21:23:35] OnScriptInit 3
+[21:23:35] OnScriptInit 4
+[21:23:35] 
+----------------------------------
+[21:23:35]  SAHeaven RP Script Started...
+[21:23:35] ----------------------------------
+
+[21:23:35] Number of vehicle models: 0
+[21:23:35]  
+[21:23:35]  ========================================== 
+[21:23:35]  |                                        | 
+[21:23:35]  |  A new version (v<!DOCTYPE) of YSI is  | 
+[21:23:35]  |            available from:             | 
+[21:23:35]  |                                        | 
+[21:23:35]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[21:23:35]  |                                        | 
+[21:23:35]  ========================================== 
+[21:23:35]  
+[21:23:55] Incoming connection: 127.0.0.1:59072
+[21:23:55] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[21:24:26] [part] Armand_Uberwald has left the server (0:1)
+[21:24:50] Incoming connection: 127.0.0.1:59073
+[21:24:50] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
+[21:25:04] [part] Armand_Uberwald has left the server (0:1)
+[21:25:28] Incoming connection: 127.0.0.1:59074
+[21:25:28] [join] Armand_Uberwald has joined the server (0:127.0.0.1)
