@@ -21,6 +21,7 @@
 #include <progress>
 #include <foreach>
 #include <sscanf>
+#include <inventory>
 #define DIALOG_REGISTER 1
 #define DIALOG_LOGIN 2
 #define DIALOG_SUCCESS_1 3
@@ -426,6 +427,7 @@ TogglePlayerSpectating(playerid, 1);
 TextDrawShowForPlayer(playerid, welcometitle);
 TextDrawShowForPlayer(playerid, welcomeversion);
 TextDrawShowForPlayer(playerid, welcomeweb);
+LoadInventory(playerid);
 
 /* ** CLEAR CHAT ** */
 
@@ -503,6 +505,7 @@ INI_WriteInt(File,"WEAPONAMMU8",PlayerInfo[playerid][pWam8]);
 INI_WriteFloat(File,"Health",PlayerInfo[playerid][pHealth]);
 INI_WriteFloat(File,"Armour",PlayerInfo[playerid][pArmour]);
 INI_Close(File);
+SaveInventory(playerid);
 }
 else{
 }
@@ -544,6 +547,20 @@ public OnPlayerDeath(playerid, killerid, reason)
 PlayerInfo[killerid][pKills]++;
 PlayerInfo[playerid][pDeaths]++;
     return 1;
+}
+
+public OnPlayerUseItem(playerid,ItemName[])
+{
+  if(!strcmp(ItemName,"Desert Eagle",true))
+  {
+    new message[128];
+    GivePlayerWeapon(playerid, 24, 5);
+    RemoveItem(playerid,ItemName,1);
+    format(message, sizeof(message), "%s takes out their Desert Eagle.", GetName(playerid));
+    ProxDetector(30.0, playerid, message, COLOR_PURPLE);
+    return SendClientMessage(playerid,0xFFFFFFFF,"You have taken out your Desert Eagle.");
+  }
+  return 0;
 }
 
 /* ** THIS SECTION IS FOR UNUSED FUNCTIONS I PLAN TO USE IN FUTURE ** */
@@ -746,6 +763,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
                 return 1;
         }
     }
+    InventoryOnDialogResponse(playerid, dialogid, response, inputtext);
     return 1;
 }
 
@@ -849,3 +867,16 @@ CMD:b(playerid, params[])
     }
     return 1;
 }
+
+CMD:gun(playerid, params[])
+{
+AddItem(playerid,"Desert Eagle",1);
+return 1;
+}
+CMD:i(playerid, params[])
+{
+ShowInventory(playerid);
+return 1;
+}
+CMD:inventory(playerid, params[]) return cmd_i(playerid, params);
+CMD:inv(playerid, params[]) return cmd_i(playerid, params);
