@@ -18,10 +18,11 @@
 #include <YSI\y_ini>
 #include <fixed>
 #include <zcmd>
-#include <progress>
+#include <ProgressBar>
 #include <foreach>
 #include <sscanf>
 #include <inventory>
+#include <Ranks>
 #define DIALOG_REGISTER 1
 #define DIALOG_LOGIN 2
 #define DIALOG_SUCCESS_1 3
@@ -30,6 +31,8 @@
 #define COL_WHITE "{FFFFFF}"
 #define COL_RED "{F81414}"
 #pragma tabsize 0
+
+
 
 /* ** COLOURS ** */
 #define COLOR_GREY 0xAFAFAFAA
@@ -236,11 +239,14 @@ enum pInfo
     pRegisterd,
     pLoggedin,
     pSkin,
+    Float:pHunger,
     Float:pPosx,
     Float:pPosy,
     Float:pPosz,
     pInt,
     pVw,
+    pFac,
+    pRank,
     pW1,
     pWam1,
     pW2,
@@ -271,6 +277,11 @@ new skins[] = {
   121 //Da Nang Boy
 };
 
+new Bar:hungry[MAX_PLAYERS] = {INVALID_BAR_ID, ...};
+forward ProgressBar();
+forward update();
+
+
 /* ** TEXT DRAW DATA ** */
 
 new Text:welcometitle;
@@ -291,11 +302,14 @@ public LoadUser_data(playerid,name[],value[])
     INI_Int("Registerd",PlayerInfo[playerid][pRegisterd]);
     INI_Int("LoggedIn",PlayerInfo[playerid][pLoggedin]);
     INI_Int("Skin",PlayerInfo[playerid][pSkin]);
+    INI_Float("Hunger",PlayerInfo[playerid][pHunger]);
     INI_Float("X",PlayerInfo[playerid][pPosx]);
     INI_Float("Y",PlayerInfo[playerid][pPosy]);
     INI_Float("Z",PlayerInfo[playerid][pPosz]);
     INI_Int("Int",PlayerInfo[playerid][pInt]);
     INI_Int("Vw",PlayerInfo[playerid][pVw]);
+    INI_Int("Faction",PlayerInfo[playerid][pFac]);
+    INI_Int("Rank",PlayerInfo[playerid][pRank]);
     INI_Int("WEAPON1",PlayerInfo[playerid][pW1]);
     INI_Int("WEAPONAMMU1",PlayerInfo[playerid][pWam1]);
     INI_Int("WEAPON2",PlayerInfo[playerid][pW2]);
@@ -408,7 +422,62 @@ public OnGameModeInit()
     TextDrawSetProportional(welcometitle, 1);
     TextDrawAlignment(welcometitle, 2);
     
+    //HUNGER STUFF
+    
+    SetTimer("ProgressBar", 90000, 1);
+	SetTimer("update", 1000, 1);
+    
+    for(new playerid; playerid < MAX_PLAYERS; playerid++)
+    {
+        new Float:health;
+		GetPlayerHealth(playerid, health);
+        new HungryTime = SetPlayerHealth(playerid, health-5);
+        new NotHungryTime = SetPlayerHealth(playerid, health+5);
+		if(GetProgressBarValue(hungry[playerid]) <= 0)
+		{
+	    	SetTimer("HungryTime", 30000, 1);
+	    	SendClientMessage(playerid, COLOR_BLUE, "You Are Hungry Now, Go To The Restaurant To Eat Some Food");
+	    	SendClientMessage(playerid, COLOR_BLUE, "If You're Not Going To Eat, You Will Lose Your Health Every 30 Seconds");
+		}
+		if(GetProgressBarValue(hungry[playerid]) <= 0)
+		{
+		    SetProgressBarValue(hungry[playerid], 0);
+		}
+		if(GetProgressBarValue(hungry[playerid]) > 0)
+		{
+		    KillTimer(HungryTime);
+		}
+        if(GetProgressBarValue(hungry[playerid]) <= 85)
+		{
+	    	SetTimer("NotHungryTime", 15000, 1);
+
+		}
+        if(GetProgressBarValue(hungry[playerid]) < 85)
+		{
+		    KillTimer(NotHungryTime);
+		}
+	}
+
+    
     return 1;
+}
+
+public ProgressBar()
+{
+    for(new playerid; playerid < MAX_PLAYERS; playerid++)
+    {
+		SetProgressBarValue(hungry[playerid], GetProgressBarValue(hungry[playerid])-2);
+	}
+	return 1;
+}
+
+public update()
+{
+	for(new playerid; playerid < MAX_PLAYERS; playerid++)
+	{
+	    UpdateProgressBar(hungry[playerid], playerid);
+	}
+	return 1;
 }
 
 public OnGameModeExit()
@@ -428,6 +497,17 @@ TextDrawShowForPlayer(playerid, welcometitle);
 TextDrawShowForPlayer(playerid, welcomeversion);
 TextDrawShowForPlayer(playerid, welcomeweb);
 LoadInventory(playerid);
+RANKS_connect(playerid);
+TogglePlayerClock(playerid, false);
+if(fexist(UserPath(playerid)))
+{
+    INI_ParseFile(UserPath(playerid), "LoadUser_%s", .bExtra = true, .extra = playerid);
+    ShowPlayerDialog(playerid, DIALOG_LOGIN, DIALOG_STYLE_PASSWORD,""COL_WHITE"Login",""COL_WHITE"Welcome back to SAHeaven RP.\n\nType your password below to login.","Login","Quit");
+}
+else
+{
+    ShowPlayerDialog(playerid, DIALOG_REGISTER, DIALOG_STYLE_PASSWORD,""COL_WHITE"Registering...",""COL_WHITE"Welcome to SAHeaven RP.\n\nYou don't appear to have registered yet.\n\nTo make a new account, type your password below.","Register","Quit");
+}
 
 /* ** CLEAR CHAT ** */
 
@@ -441,16 +521,8 @@ LoadInventory(playerid);
     SendClientMessage(playerid,0xDEEE20FF, " ");
     SendClientMessage(playerid,0xDEEE20FF, " ");
     SendClientMessage(playerid,0xDEEE20FF, " ");
-    
-if(fexist(UserPath(playerid)))
-{
-    INI_ParseFile(UserPath(playerid), "LoadUser_%s", .bExtra = true, .extra = playerid);
-    ShowPlayerDialog(playerid, DIALOG_LOGIN, DIALOG_STYLE_PASSWORD,""COL_WHITE"Login",""COL_WHITE"Welcome back to SAHeaven RP.\n\nType your password below to login.","Login","Quit");
-}
-else
-{
-    ShowPlayerDialog(playerid, DIALOG_REGISTER, DIALOG_STYLE_PASSWORD,""COL_WHITE"Registering...",""COL_WHITE"Welcome to SAHeaven RP.\n\nYou don't appear to have registered yet.\n\nTo make a new account, type your password below.","Register","Quit");
-}
+    SendClientMessage(playerid,0xDEEE20FF, " ");
+
 return 1;
 }
 
@@ -481,11 +553,14 @@ INI_WriteInt(File,"Scores",GetPlayerScore(playerid));
 INI_WriteInt(File,"Registerd",PlayerInfo[playerid][pRegisterd]);
 INI_WriteInt(File,"LoggedIn",PlayerInfo[playerid][pLoggedin]);
 INI_WriteInt(File,"Skin",GetPlayerSkin(playerid));
+INI_WriteFloat(File,"Hunger",Float:GetProgressBarValue(hungry[playerid]));
 INI_WriteFloat(File,"X",PlayerInfo[playerid][pPosx]);
 INI_WriteFloat(File,"Y",PlayerInfo[playerid][pPosy]);
 INI_WriteFloat(File,"Z",PlayerInfo[playerid][pPosz]);
 INI_WriteInt(File,"Int",GetPlayerInterior(playerid));
 INI_WriteInt(File,"Vw",GetPlayerVirtualWorld(playerid));
+INI_WriteInt(File,"Faction",GetPlayerFaction(playerid));
+INI_WriteInt(File,"Rank",GetPlayerRank(playerid));
 INI_WriteInt(File,"WEAPON1",PlayerInfo[playerid][pW1]);
 INI_WriteInt(File,"WEAPONAMMU1",PlayerInfo[playerid][pWam1]);
 INI_WriteInt(File,"WEAPON2",PlayerInfo[playerid][pW2]);
@@ -530,6 +605,7 @@ public OnPlayerSpawn(playerid)
     GivePlayerWeapon(playerid,PlayerInfo[playerid][pW8],PlayerInfo[playerid][pWam8]);
     SetPlayerArmour(playerid,PlayerInfo[playerid][pArmour]);
     SetPlayerHealth(playerid,PlayerInfo[playerid][pHealth]);
+    SetPlayerRank(playerid, PlayerInfo[playerid][pFac], PlayerInfo[playerid][pRank]);
     }
     else{
     }
@@ -537,6 +613,10 @@ public OnPlayerSpawn(playerid)
     TextDrawHideForPlayer(playerid, welcometitle);
     TextDrawHideForPlayer(playerid, welcomeversion);
     TextDrawHideForPlayer(playerid, welcomeweb);
+    hungry[playerid] = CreateProgressBar(548.50, 47.00, 55.50, 4.00, COLOR_GREEN, 100.000000);
+	ShowProgressBarForPlayer(playerid, hungry[playerid]);
+	SetProgressBarValue(hungry[playerid], Float:PlayerInfo[playerid][pHunger]);
+    TogglePlayerClock(playerid, 0);
     return 1;
 }
 
@@ -546,6 +626,7 @@ public OnPlayerDeath(playerid, killerid, reason)
 {
 PlayerInfo[killerid][pKills]++;
 PlayerInfo[playerid][pDeaths]++;
+SetProgressBarValue(hungry[playerid], 100);
     return 1;
 }
 
@@ -734,8 +815,10 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
                 INI_WriteInt(File,"Scores",0);
                 INI_WriteInt(File,"Registerd",0);
                 INI_WriteInt(File,"LoggedIn",1);
+                INI_WriteFloat(File,"Hunger",0);
                 INI_Close(File);
                 TogglePlayerSpectating(playerid, 0);
+                PlayerInfo[playerid][pHunger] = 100;
                 SpawnPlayer(playerid);
                 }
    }
@@ -748,6 +831,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
                 {
                     INI_ParseFile(UserPath(playerid), "LoadUser_%s", .bExtra = true, .extra = playerid);
                     GivePlayerMoney(playerid, PlayerInfo[playerid][pCash]);
+                    
                     if(PlayerInfo[playerid][pRegisterd] == 0){
                     PlayerInfo[playerid][pRegisterd] = 1;
                     }
@@ -880,3 +964,29 @@ return 1;
 }
 CMD:inventory(playerid, params[]) return cmd_i(playerid, params);
 CMD:inv(playerid, params[]) return cmd_i(playerid, params);
+
+CMD:setfaction(playerid, params[])
+    {
+        
+            new PID; //define the playerid we wanna kick
+            new faction; //the reason, put into a string
+            new str[128]; //a new message string
+            new Playername[MAX_PLAYER_NAME], Adminname[MAX_PLAYER_NAME]; //defines the function with the playername we wanna get
+            GetPlayerName(playerid, Adminname, sizeof(Adminname)); //defines the function with the adminname we wanna get
+            GetPlayerName(PID, Playername, sizeof(Playername));
+            if(sscanf(params, "us[64]", PID, faction)) return SendClientMessage(playerid, COLOR_GREY, "USAGE: /setfaction [playerid] [factionid]"); //tell sscanf if the parameters/the syntax is written wrong to return a message (PID and the reason used here)
+
+            if(!IsPlayerConnected(PID)) // if the ID is wrong or not connected, return a message! (PID used here)
+                return SendClientMessage(playerid, COLOR_GREY, "Player is not connected!");
+            SetPlayerRank(PID, faction, 0); //kick the playerid we've defined
+            format(str, sizeof(str), "%s has been added to %s by %s.", Playername, faction, Adminname); //format the string we've defined to send the message, playername and adminname are used to receive the information about the names
+        SendClientMessage(playerid, COLOR_RED, str); //send that message to all
+        
+
+        return 1;
+    }
+CMD:eat(playerid, params[])
+{
+SetProgressBarValue(hungry[playerid], GetProgressBarValue(hungry[playerid])+10);
+return 1;
+}

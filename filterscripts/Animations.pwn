@@ -1,7 +1,7 @@
 #define FILTERSCRIPT
 
 #include <a_samp>//Standard
-#include <sscanf2>//Advanced Sscanf
+#include <sscanf>//Advanced Sscanf
 #include <zcmd>//CMD: Ability
 #include <foreach>//Improved loops
 #include <a_angles>//Special Angle Functions
@@ -230,7 +230,7 @@ CMD:animlist(playerid)
 	strcat(main, string);
 	format(string, sizeof(string),"Point - Shout - Look - Aim - CPR - Fixcar - Flag - Bat - Lean - Gang - Wallshoot - What - Insult");
     strcat(main, string);
-	ShowPlayerDialog(playerid, 110, DIALOG_STYLE_MSGBOX, "{00BFFF}Available animations",main, "Cool", "");
+	ShowPlayerDialog(playerid, 110, DIALOG_STYLE_MSGBOX, "{00BFFF}Available animations",main, "Done", "");
     return 1;
 }
 
