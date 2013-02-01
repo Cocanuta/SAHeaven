@@ -9,7 +9,7 @@
  *     \______/ |__/  |__/|__/  |__/ \_______/ \_______/    \_/    \_______/|__/  |__/      |__/  |__/|__/      
  *                                                                                                              
  *                                San Andreas Heaven Role Play Server Gamemode Script.                          
- *                               Created By: Ben Cherrington and David Engles ( Ideas ).                    
+ *                                   Created By: Ben Cherrington and David Engles.
  */
 
 /* ** INCLUDES AND DEFINES ** */
